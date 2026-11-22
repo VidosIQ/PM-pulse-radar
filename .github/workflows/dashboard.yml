@@ -1,0 +1,48 @@
+name: Update dashboard and publish
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # Moscow UTC+3: 06:15 UTC = 09:15 MSK
+    - cron: '15 6 * * *'
+concurrency:
+  group: dashboard-pages
+  cancel-in-progress: false
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Enable Russian sorting for topic labels
+        run: sudo locale-gen ru_RU.UTF-8
+      - name: Test build and fallback
+        run: python -m unittest discover -s tests -v
+      - name: Collect and build
+        run: python scripts/update.py
+      - name: Preserve source snapshots for next run
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/index.html docs/data.json docs/product-pulse.xlsx
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update product snapshot [skip ci]'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+      - uses: actions/deploy-pages@v4
+        id: deployment
