@@ -1,6 +1,6 @@
 {
-  "run_id": "20261122T132445Z",
-  "completed_at": "2026-11-22T13:24:45.481046+00:00",
+  "run_id": "20261122T132657Z",
+  "completed_at": "2026-11-22T13:26:57.339955+00:00",
   "is_trial": false,
   "parser_version": "github-1.0",
   "sources": [
@@ -13,11 +13,11 @@
         "url": "https://productradar.ru/",
         "final_url": "https://productradar.ru/",
         "status": 200,
-        "fetched_at": "2026-11-22T13:24:35.249466+00:00",
-        "sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6"
+        "fetched_at": "2026-11-22T13:26:53.059061+00:00",
+        "sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f"
       },
-      "data_fetched_at": "2026-11-22T13:24:35.249466+00:00",
-      "attempted_at": "2026-11-22T13:24:35.268362+00:00"
+      "data_fetched_at": "2026-11-22T13:26:53.059061+00:00",
+      "attempted_at": "2026-11-22T13:26:53.076784+00:00"
     },
     {
       "source": "Habr / Product Radar",
@@ -28,18 +28,18 @@
         "url": "https://habr.com/ru/companies/productradar/articles/",
         "final_url": "https://habr.com/ru/companies/productradar/articles/",
         "status": 200,
-        "fetched_at": "2026-11-22T13:24:36.218702+00:00",
-        "sha256": "9e3f1865cc62bd1cfb033a236e70f4f1cb47de7f8d4380398837c0bb6922d3ff"
+        "fetched_at": "2026-11-22T13:26:54.107535+00:00",
+        "sha256": "da63ee22fc17ce8d8ed88c75adef3df5d39a1848e110fc244383d52d8a15612a"
       },
       "metadata": {
         "url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "final_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "status": 200,
-        "fetched_at": "2026-11-22T13:24:37.688982+00:00",
-        "sha256": "5bab503c99c0c969a9c29a705eff826164d2d2ea53b5a7ec804f9ab9a7d5a53c"
+        "fetched_at": "2026-11-22T13:26:55.016342+00:00",
+        "sha256": "946d3f05ecf355bf89d00f679d53ac07c1c8de73a802023d151adf672257d7ab"
       },
-      "data_fetched_at": "2026-11-22T13:24:37.688982+00:00",
-      "attempted_at": "2026-11-22T13:24:37.691538+00:00"
+      "data_fetched_at": "2026-11-22T13:26:55.016342+00:00",
+      "attempted_at": "2026-11-22T13:26:55.018750+00:00"
     },
     {
       "source": "Show HN",
@@ -50,11 +50,11 @@
         "url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "final_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "status": 200,
-        "fetched_at": "2026-11-22T13:24:38.250506+00:00",
-        "sha256": "7349d161cf7a59f0f4b0245bcad4151eef7453330d45dc4760c8c5dd431136ac"
+        "fetched_at": "2026-11-22T13:26:55.160472+00:00",
+        "sha256": "97ce5f25ad4efcd6cf2dcfe5176bc00546faef611684055446ba4fcfc0383851"
       },
-      "data_fetched_at": "2026-11-22T13:24:45.480711+00:00",
-      "attempted_at": "2026-11-22T13:24:45.481020+00:00"
+      "data_fetched_at": "2026-11-22T13:26:57.339611+00:00",
+      "attempted_at": "2026-11-22T13:26:57.339927+00:00"
     }
   ],
   "records": [
@@ -64,7 +64,7 @@
       "title": "LBX Биллинг",
       "source_url": "https://productradar.ru/product/lbx-billing-2/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -74,15 +74,15 @@
         "Все для разработчиков"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 294,
+      "metric_value": 295,
       "comments_count": 6,
       "evidence": {
         "title": "LBX Биллинг",
-        "data_votes": "294",
+        "data_votes": "295",
         "comments_text": "6",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19579"
     },
     {
@@ -91,7 +91,7 @@
       "title": "Recca.ru 2.0",
       "source_url": "https://productradar.ru/product/recca-ru-2-0/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -112,7 +112,7 @@
         "comments_text": "13",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19607"
     },
     {
@@ -121,7 +121,7 @@
       "title": "INDEXALL electric 2.0",
       "source_url": "https://productradar.ru/product/indexall-electric-2/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -142,7 +142,7 @@
         "comments_text": "15",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19613"
     },
     {
@@ -151,7 +151,7 @@
       "title": "Teamlogs Recorder",
       "source_url": "https://productradar.ru/product/teamlogs-recorder/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -172,7 +172,7 @@
         "comments_text": "9",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "18824"
     },
     {
@@ -181,7 +181,7 @@
       "title": "Gramax c ИИ-агентом",
       "source_url": "https://productradar.ru/product/gramax-c-ii-agentom/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -200,7 +200,7 @@
         "comments_text": "8",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19603"
     },
     {
@@ -209,7 +209,7 @@
       "title": "Palert 2.0",
       "source_url": "https://productradar.ru/product/palert-2-0/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -229,7 +229,7 @@
         "comments_text": "9",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19557"
     },
     {
@@ -238,7 +238,7 @@
       "title": "Нетворкли",
       "source_url": "https://productradar.ru/product/netvorkli/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -258,7 +258,7 @@
         "comments_text": "3",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19617"
     },
     {
@@ -267,7 +267,7 @@
       "title": "Hire by Stafflow",
       "source_url": "https://productradar.ru/product/hire-by-stafflow/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -289,7 +289,7 @@
         "comments_text": "3",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19659"
     },
     {
@@ -298,7 +298,7 @@
       "title": "Летучка 2.0",
       "source_url": "https://productradar.ru/product/letuchka-ru/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -319,7 +319,7 @@
         "comments_text": "1",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19575"
     },
     {
@@ -328,7 +328,7 @@
       "title": "Аспро.Cloud",
       "source_url": "https://productradar.ru/product/aspro-cloud-2/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-22T13:24:35.249466+00:00",
+      "fetched_at": "2026-11-22T13:26:53.059061+00:00",
       "published_at": null,
       "period": "2026-11-16/2026-11-22",
       "product_url": null,
@@ -349,7 +349,7 @@
         "comments_text": "8",
         "period_datetime": "2026-11-16/2026-11-22"
       },
-      "response_sha256": "01be39097c531a0164a0288ceeabeddc412d920eaed61c643128af62824d88d6",
+      "response_sha256": "8816924da782d1cde0a34e963f2aab6e794ef9b0a2d862d36f35efdd8185625f",
       "source_id": "19628"
     },
     {
@@ -358,7 +358,7 @@
       "title": "Снова на Радаре: 16 подросших стартапов к трёхлетию площадки",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1108510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-22T13:24:37.688982+00:00",
+      "fetched_at": "2026-11-22T13:26:55.016342+00:00",
       "published_at": "2026-11-17T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -382,7 +382,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1108510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 17 Nov 2026 05:46:17 GMT"
       },
-      "response_sha256": "5bab503c99c0c969a9c29a705eff826164d2d2ea53b5a7ec804f9ab9a7d5a53c",
+      "response_sha256": "946d3f05ecf355bf89d00f679d53ac07c1c8de73a802023d151adf672257d7ab",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1108510/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -392,7 +392,7 @@
       "title": "ИИ-подсказки для переписки, российская ОС для виртуальных серверов и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1105648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-22T13:24:37.688982+00:00",
+      "fetched_at": "2026-11-22T13:26:55.016342+00:00",
       "published_at": "2026-11-10T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -416,7 +416,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1105648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 10 Nov 2026 05:46:17 GMT"
       },
-      "response_sha256": "5bab503c99c0c969a9c29a705eff826164d2d2ea53b5a7ec804f9ab9a7d5a53c",
+      "response_sha256": "946d3f05ecf355bf89d00f679d53ac07c1c8de73a802023d151adf672257d7ab",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1105648/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -426,7 +426,7 @@
       "title": "Кофейный паспорт, планирование загородного участка в 3D и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1103294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-22T13:24:37.688982+00:00",
+      "fetched_at": "2026-11-22T13:26:55.016342+00:00",
       "published_at": "2026-11-04T05:45:38+00:00",
       "period": null,
       "product_url": null,
@@ -450,7 +450,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1103294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Wed, 04 Nov 2026 05:45:38 GMT"
       },
-      "response_sha256": "5bab503c99c0c969a9c29a705eff826164d2d2ea53b5a7ec804f9ab9a7d5a53c",
+      "response_sha256": "946d3f05ecf355bf89d00f679d53ac07c1c8de73a802023d151adf672257d7ab",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1103294/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -460,7 +460,7 @@
       "title": "Книга мертвых стартапов. Выпуск 2026: До последнего клиента",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1102068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-22T13:24:37.688982+00:00",
+      "fetched_at": "2026-11-22T13:26:55.016342+00:00",
       "published_at": "2026-10-31T12:36:34+00:00",
       "period": null,
       "product_url": null,
@@ -482,7 +482,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1102068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Sat, 31 Oct 2026 12:36:34 GMT"
       },
-      "response_sha256": "5bab503c99c0c969a9c29a705eff826164d2d2ea53b5a7ec804f9ab9a7d5a53c",
+      "response_sha256": "946d3f05ecf355bf89d00f679d53ac07c1c8de73a802023d151adf672257d7ab",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1102068/",
       "author": "tw0face (Product Radar)"
     },
@@ -492,7 +492,7 @@
       "title": "ИИ-сериал из одной идеи, черновой монтаж видео в Premiere Pro за минуты и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1099716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-22T13:24:37.688982+00:00",
+      "fetched_at": "2026-11-22T13:26:55.016342+00:00",
       "published_at": "2026-10-27T05:46:43+00:00",
       "period": null,
       "product_url": null,
@@ -516,7 +516,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1099716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 27 Oct 2026 05:46:43 GMT"
       },
-      "response_sha256": "5bab503c99c0c969a9c29a705eff826164d2d2ea53b5a7ec804f9ab9a7d5a53c",
+      "response_sha256": "946d3f05ecf355bf89d00f679d53ac07c1c8de73a802023d151adf672257d7ab",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1099716/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -526,7 +526,7 @@
       "title": "Show HN: The Riemann Proof Handbook",
       "source_url": "https://news.ycombinator.com/item?id=50596664",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:38.948595+00:00",
+      "fetched_at": "2026-11-22T13:26:55.371486+00:00",
       "published_at": "2026-11-22T05:46:30+00:00",
       "period": null,
       "product_url": "https://github.com/tamnd/riemann-handbook",
@@ -552,7 +552,7 @@
       "title": "Show HN: NestDaddy Memory, one memory shared by ChatGPT, Claude and Cursor",
       "source_url": "https://news.ycombinator.com/item?id=50599108",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:39.718672+00:00",
+      "fetched_at": "2026-11-22T13:26:55.610447+00:00",
       "published_at": "2026-11-22T12:37:28+00:00",
       "period": null,
       "product_url": "https://nestdaddy.com/memory",
@@ -578,7 +578,7 @@
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "source_url": "https://news.ycombinator.com/item?id=50590279",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:40.508533+00:00",
+      "fetched_at": "2026-11-22T13:26:55.832516+00:00",
       "published_at": "2026-11-21T15:39:09+00:00",
       "period": null,
       "product_url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -604,7 +604,7 @@
       "title": "Show HN: Compile the same source for GPUs and CPUs",
       "source_url": "https://news.ycombinator.com/item?id=50487155",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:41.268696+00:00",
+      "fetched_at": "2026-11-22T13:26:56.054070+00:00",
       "published_at": "2026-11-13T17:53:42+00:00",
       "period": null,
       "product_url": "https://github.com/ThrudTheBarbarian/xc",
@@ -630,7 +630,7 @@
       "title": "Show HN: An ASCII cell aquarium for your terminal",
       "source_url": "https://news.ycombinator.com/item?id=50541047",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:41.951776+00:00",
+      "fetched_at": "2026-11-22T13:26:56.275899+00:00",
       "published_at": "2026-11-18T02:18:29+00:00",
       "period": null,
       "product_url": "https://github.com/kborer/cells/",
@@ -656,7 +656,7 @@
       "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
       "source_url": "https://news.ycombinator.com/item?id=50526023",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:42.635661+00:00",
+      "fetched_at": "2026-11-22T13:26:56.487518+00:00",
       "published_at": "2026-11-17T01:03:05+00:00",
       "period": null,
       "product_url": "https://kobi.music/research/dettato",
@@ -682,7 +682,7 @@
       "title": "Show HN: I built a newspaper for white-collar crime that paints every portrait",
       "source_url": "https://news.ycombinator.com/item?id=50597371",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:43.345540+00:00",
+      "fetched_at": "2026-11-22T13:26:56.701267+00:00",
       "published_at": "2026-11-22T08:12:40+00:00",
       "period": null,
       "product_url": "https://financialcrimes.fyi/",
@@ -708,7 +708,7 @@
       "title": "Show HN: I made a PS1 style racing game",
       "source_url": "https://news.ycombinator.com/item?id=50589184",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:44.050598+00:00",
+      "fetched_at": "2026-11-22T13:26:56.914507+00:00",
       "published_at": "2026-11-21T13:47:45+00:00",
       "period": null,
       "product_url": "https://outpostracer.com",
@@ -734,7 +734,7 @@
       "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
       "source_url": "https://news.ycombinator.com/item?id=50559749",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:44.736974+00:00",
+      "fetched_at": "2026-11-22T13:26:57.128278+00:00",
       "published_at": "2026-11-19T13:21:20+00:00",
       "period": null,
       "product_url": "https://foolscap.works/",
@@ -760,7 +760,7 @@
       "title": "Show HN: Tinnitus frequency finder and audio notch tool",
       "source_url": "https://news.ycombinator.com/item?id=50541568",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-22T13:24:45.480711+00:00",
+      "fetched_at": "2026-11-22T13:26:57.339611+00:00",
       "published_at": "2026-11-18T03:40:01+00:00",
       "period": null,
       "product_url": "https://trynotched.com/find",
