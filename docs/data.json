@@ -1,6 +1,6 @@
 {
-  "run_id": "20261123T094832Z",
-  "completed_at": "2026-11-23T09:48:32.556414+00:00",
+  "run_id": "20261123T095231Z",
+  "completed_at": "2026-11-23T09:52:31.098945+00:00",
   "is_trial": false,
   "parser_version": "github-1.0",
   "sources": [
@@ -13,11 +13,11 @@
         "url": "https://productradar.ru/",
         "final_url": "https://productradar.ru/",
         "status": 200,
-        "fetched_at": "2026-11-23T09:48:27.621012+00:00",
-        "sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b"
+        "fetched_at": "2026-11-23T09:52:26.148876+00:00",
+        "sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4"
       },
-      "data_fetched_at": "2026-11-23T09:48:27.621012+00:00",
-      "attempted_at": "2026-11-23T09:48:27.628235+00:00"
+      "data_fetched_at": "2026-11-23T09:52:26.148876+00:00",
+      "attempted_at": "2026-11-23T09:52:26.156325+00:00"
     },
     {
       "source": "Habr / Product Radar",
@@ -28,18 +28,18 @@
         "url": "https://habr.com/ru/companies/productradar/articles/",
         "final_url": "https://habr.com/ru/companies/productradar/articles/",
         "status": 200,
-        "fetched_at": "2026-11-23T09:48:28.834576+00:00",
+        "fetched_at": "2026-11-23T09:52:27.360100+00:00",
         "sha256": "92c4b8cc72a3a90da5786d138337e3adba3425b57a09e25a766a5c107a20da7e"
       },
       "metadata": {
         "url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "final_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "status": 200,
-        "fetched_at": "2026-11-23T09:48:30.102429+00:00",
+        "fetched_at": "2026-11-23T09:52:28.506545+00:00",
         "sha256": "522428c3f4971c1d5f4685b500b193695fcb25c0465e353e81d2356254f76bc5"
       },
-      "data_fetched_at": "2026-11-23T09:48:30.102429+00:00",
-      "attempted_at": "2026-11-23T09:48:30.103835+00:00"
+      "data_fetched_at": "2026-11-23T09:52:28.506545+00:00",
+      "attempted_at": "2026-11-23T09:52:28.508551+00:00"
     },
     {
       "source": "Show HN",
@@ -50,11 +50,11 @@
         "url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "final_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "status": 200,
-        "fetched_at": "2026-11-23T09:48:30.230491+00:00",
+        "fetched_at": "2026-11-23T09:52:28.658568+00:00",
         "sha256": "ad4e0fd68217c1379ac11870bbb14290a4dae410c31a7a9ccde893a5e351a19f"
       },
-      "data_fetched_at": "2026-11-23T09:48:32.556236+00:00",
-      "attempted_at": "2026-11-23T09:48:32.556393+00:00"
+      "data_fetched_at": "2026-11-23T09:52:31.098667+00:00",
+      "attempted_at": "2026-11-23T09:52:31.098899+00:00"
     }
   ],
   "records": [
@@ -64,7 +64,7 @@
       "title": "Клайп",
       "source_url": "https://productradar.ru/product/klajp/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -85,7 +85,7 @@
         "comments_text": "1",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "18968"
     },
     {
@@ -94,7 +94,7 @@
       "title": "Yaspot",
       "source_url": "https://productradar.ru/product/yaspot/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -114,7 +114,7 @@
         "comments_text": "1",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "19716"
     },
     {
@@ -123,7 +123,7 @@
       "title": "Мы все – родня!",
       "source_url": "https://productradar.ru/product/my-vse-rodnya/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -143,7 +143,7 @@
         "comments_text": "3",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "19634"
     },
     {
@@ -152,7 +152,7 @@
       "title": "Юный Кодер от Айти Знайка",
       "source_url": "https://productradar.ru/product/yunyj-koder-ot-ajti-znajka/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -171,7 +171,7 @@
         "comments_text": "1",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "19026"
     },
     {
@@ -180,7 +180,7 @@
       "title": "GymDesk",
       "source_url": "https://productradar.ru/product/gymdesk/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -199,7 +199,7 @@
         "comments_text": "1",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "14497"
     },
     {
@@ -208,7 +208,7 @@
       "title": "Пульт Станции",
       "source_url": "https://productradar.ru/product/pult-stanczii/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -226,7 +226,7 @@
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "19730"
     },
     {
@@ -235,7 +235,7 @@
       "title": "Motty",
       "source_url": "https://productradar.ru/product/motty-schyotchik-kalorij-ai/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -256,7 +256,7 @@
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "17944"
     },
     {
@@ -265,7 +265,7 @@
       "title": "СООТВЕТСТВИЕ.РУС",
       "source_url": "https://productradar.ru/product/sootvetstvie-rus/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -286,7 +286,7 @@
         "comments_text": "1",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "19689"
     },
     {
@@ -295,7 +295,7 @@
       "title": "Подбор",
       "source_url": "https://productradar.ru/product/podbor/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -315,7 +315,7 @@
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "18536"
     },
     {
@@ -324,7 +324,7 @@
       "title": "Комната ИИ",
       "source_url": "https://productradar.ru/product/komnata-ii/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T09:48:27.621012+00:00",
+      "fetched_at": "2026-11-23T09:52:26.148876+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -342,7 +342,7 @@
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "b04a2b53ac77bbdbb7636a416f23b0a4651e87403867aacc58a03980e3091b2b",
+      "response_sha256": "d545add52f1cc8e7f96fdb6e37024130be17cc206cc73b8d9838f06ec10b88d4",
       "source_id": "19054"
     },
     {
@@ -351,7 +351,7 @@
       "title": "Снова на Радаре: 16 подросших стартапов к трёхлетию площадки",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1108510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T09:48:30.102429+00:00",
+      "fetched_at": "2026-11-23T09:52:28.506545+00:00",
       "published_at": "2026-11-17T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -385,7 +385,7 @@
       "title": "ИИ-подсказки для переписки, российская ОС для виртуальных серверов и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1105648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T09:48:30.102429+00:00",
+      "fetched_at": "2026-11-23T09:52:28.506545+00:00",
       "published_at": "2026-11-10T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -419,7 +419,7 @@
       "title": "Кофейный паспорт, планирование загородного участка в 3D и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1103294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T09:48:30.102429+00:00",
+      "fetched_at": "2026-11-23T09:52:28.506545+00:00",
       "published_at": "2026-11-04T05:45:38+00:00",
       "period": null,
       "product_url": null,
@@ -453,7 +453,7 @@
       "title": "Книга мертвых стартапов. Выпуск 2026: До последнего клиента",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1102068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T09:48:30.102429+00:00",
+      "fetched_at": "2026-11-23T09:52:28.506545+00:00",
       "published_at": "2026-10-31T12:36:34+00:00",
       "period": null,
       "product_url": null,
@@ -485,7 +485,7 @@
       "title": "ИИ-сериал из одной идеи, черновой монтаж видео в Premiere Pro за минуты и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1099716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T09:48:30.102429+00:00",
+      "fetched_at": "2026-11-23T09:52:28.506545+00:00",
       "published_at": "2026-10-27T05:46:43+00:00",
       "period": null,
       "product_url": null,
@@ -519,24 +519,24 @@
       "title": "Show HN: Drive around my village in 3D",
       "source_url": "https://news.ycombinator.com/item?id=50574412",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:30.458446+00:00",
+      "fetched_at": "2026-11-23T09:52:28.901053+00:00",
       "published_at": "2026-11-20T13:32:42+00:00",
       "period": null,
       "product_url": "https://cherwellvalleymotorclub.app",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 17,
-      "comments_count": 16,
+      "metric_value": 18,
+      "comments_count": 17,
       "evidence": {
         "id": 50574412,
         "title": "Show HN: Drive around my village in 3D",
         "time": 1795181562,
         "url": "https://cherwellvalleymotorclub.app",
-        "score": 17,
-        "descendants": 16
+        "score": 18,
+        "descendants": 17
       },
-      "response_sha256": "bb9d5375066a783a53adac86d5cd1636ed43511818b81361c5a4eb704d2f2fe8",
+      "response_sha256": "10f75dbef5be7fe18788157fbe198c956596d9f58bc44bc9a12551eafe0c71d0",
       "source_id": "50574412"
     },
     {
@@ -545,7 +545,7 @@
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "source_url": "https://news.ycombinator.com/item?id=50599762",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:30.691956+00:00",
+      "fetched_at": "2026-11-23T09:52:29.150343+00:00",
       "published_at": "2026-11-22T13:56:58+00:00",
       "period": null,
       "product_url": "https://github.com/gulivan/worker755",
@@ -571,7 +571,7 @@
       "title": "Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware",
       "source_url": "https://news.ycombinator.com/item?id=50606513",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:30.928858+00:00",
+      "fetched_at": "2026-11-23T09:52:29.396685+00:00",
       "published_at": "2026-11-23T01:52:12+00:00",
       "period": null,
       "product_url": "https://github.com/njgreb/n64fireplace",
@@ -597,7 +597,7 @@
       "title": "Show HN: High-Performance Reverse SOCKS5, UDP and MTProto Proxy Cluster in Go",
       "source_url": "https://news.ycombinator.com/item?id=50607951",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:31.168872+00:00",
+      "fetched_at": "2026-11-23T09:52:29.641380+00:00",
       "published_at": "2026-11-23T05:49:45+00:00",
       "period": null,
       "product_url": "https://github.com/zenkdom/reverse-socks-go",
@@ -623,7 +623,7 @@
       "title": "Show HN: I used Fable to make an open source 80s-style Skyrim browser game",
       "source_url": "https://news.ycombinator.com/item?id=50606209",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:31.400456+00:00",
+      "fetched_at": "2026-11-23T09:52:29.883257+00:00",
       "published_at": "2026-11-23T01:15:59+00:00",
       "period": null,
       "product_url": "https://thanes-quest.daventry.io/",
@@ -649,7 +649,7 @@
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "source_url": "https://news.ycombinator.com/item?id=50590279",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:31.629174+00:00",
+      "fetched_at": "2026-11-23T09:52:30.126578+00:00",
       "published_at": "2026-11-21T15:39:09+00:00",
       "period": null,
       "product_url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -675,7 +675,7 @@
       "title": "Show HN: Dere Type Quiz – a free 2-minute dere test",
       "source_url": "https://news.ycombinator.com/item?id=50606696",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:31.855652+00:00",
+      "fetched_at": "2026-11-23T09:52:30.370225+00:00",
       "published_at": "2026-11-23T02:16:16+00:00",
       "period": null,
       "product_url": "https://deretypesquiz.com/",
@@ -701,7 +701,7 @@
       "title": "Show HN: An ASCII cell aquarium for your terminal",
       "source_url": "https://news.ycombinator.com/item?id=50541047",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:32.090235+00:00",
+      "fetched_at": "2026-11-23T09:52:30.613470+00:00",
       "published_at": "2026-11-18T02:18:29+00:00",
       "period": null,
       "product_url": "https://github.com/kborer/cells/",
@@ -727,7 +727,7 @@
       "title": "Show HN: Hammerspoon 2 Beta 1 is released",
       "source_url": "https://news.ycombinator.com/item?id=50606408",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:32.317999+00:00",
+      "fetched_at": "2026-11-23T09:52:30.856385+00:00",
       "published_at": "2026-11-23T01:40:22+00:00",
       "period": null,
       "product_url": "https://www.hammerspoon.org/",
@@ -753,7 +753,7 @@
       "title": "Show HN: Biohacking in Chess – can coffee make you a better player?",
       "source_url": "https://news.ycombinator.com/item?id=50606386",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T09:48:32.556236+00:00",
+      "fetched_at": "2026-11-23T09:52:31.098667+00:00",
       "published_at": "2026-11-23T01:38:39+00:00",
       "period": null,
       "product_url": "https://plantsresearch.pro/chess-lab",
