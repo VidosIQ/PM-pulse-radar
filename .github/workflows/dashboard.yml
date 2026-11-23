@@ -7,6 +7,8 @@ on:
     # Daily update at 09:15 Moscow time.
     - cron: '15 9 * * *'
       timezone: 'Europe/Moscow'
+    # One-off scheduler probe: 2026-11-23 09:12 UTC (12:12 MSK).
+    - cron: '12 9 23 11 *'
 concurrency:
   group: dashboard-pages
   cancel-in-progress: false
