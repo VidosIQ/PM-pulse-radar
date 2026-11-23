@@ -4,8 +4,11 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    # Moscow UTC+3: 06:15 UTC = 09:15 MSK
-    - cron: '15 6 * * *'
+    # Daily update at 09:15 Moscow time.
+    - cron: '15 9 * * *'
+      timezone: 'Europe/Moscow'
+    # Temporary scheduler verification; removed after diagnosis.
+    - cron: '*/5 * * * *'
 concurrency:
   group: dashboard-pages
   cancel-in-progress: false
