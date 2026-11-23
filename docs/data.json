@@ -1,6 +1,6 @@
 {
-  "run_id": "20261123T085517Z",
-  "completed_at": "2026-11-23T08:55:17.655502+00:00",
+  "run_id": "20261123T090425Z",
+  "completed_at": "2026-11-23T09:04:25.312243+00:00",
   "is_trial": false,
   "parser_version": "github-1.0",
   "sources": [
@@ -13,11 +13,11 @@
         "url": "https://productradar.ru/",
         "final_url": "https://productradar.ru/",
         "status": 200,
-        "fetched_at": "2026-11-23T08:55:11.782927+00:00",
-        "sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098"
+        "fetched_at": "2026-11-23T09:04:20.478025+00:00",
+        "sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912"
       },
-      "data_fetched_at": "2026-11-23T08:55:11.782927+00:00",
-      "attempted_at": "2026-11-23T08:55:11.800484+00:00"
+      "data_fetched_at": "2026-11-23T09:04:20.478025+00:00",
+      "attempted_at": "2026-11-23T09:04:20.486206+00:00"
     },
     {
       "source": "Habr / Product Radar",
@@ -28,18 +28,18 @@
         "url": "https://habr.com/ru/companies/productradar/articles/",
         "final_url": "https://habr.com/ru/companies/productradar/articles/",
         "status": 200,
-        "fetched_at": "2026-11-23T08:55:13.257517+00:00",
+        "fetched_at": "2026-11-23T09:04:21.522368+00:00",
         "sha256": "fb506e0530aaf664d8ec9dd762276edb5e86c15689cc2a467dd5908b197a57e8"
       },
       "metadata": {
         "url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "final_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "status": 200,
-        "fetched_at": "2026-11-23T08:55:14.642204+00:00",
+        "fetched_at": "2026-11-23T09:04:22.352085+00:00",
         "sha256": "d0f2a9a90ccc25eb2afa33e5c7410379aa594f1be110e620472898575e943056"
       },
-      "data_fetched_at": "2026-11-23T08:55:14.642204+00:00",
-      "attempted_at": "2026-11-23T08:55:14.644698+00:00"
+      "data_fetched_at": "2026-11-23T09:04:22.352085+00:00",
+      "attempted_at": "2026-11-23T09:04:22.354001+00:00"
     },
     {
       "source": "Show HN",
@@ -50,307 +50,300 @@
         "url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "final_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "status": 200,
-        "fetched_at": "2026-11-23T08:55:14.837519+00:00",
-        "sha256": "a2ed8cacb3ff0757b9b5f3bab52c2c732238ba1ae48410d7d3fb01dbefd658fb"
+        "fetched_at": "2026-11-23T09:04:22.575477+00:00",
+        "sha256": "2599bdbafd1ce17b0636e5bdfc4aaeec62f11845efa6acb99f8f6bad25253b7a"
       },
-      "data_fetched_at": "2026-11-23T08:55:17.655172+00:00",
-      "attempted_at": "2026-11-23T08:55:17.655474+00:00"
+      "data_fetched_at": "2026-11-23T09:04:25.311994+00:00",
+      "attempted_at": "2026-11-23T09:04:25.312222+00:00"
     }
   ],
   "records": [
     {
       "source": "Product Radar",
       "record_type": "product_listing",
-      "title": "LBX Биллинг",
-      "source_url": "https://productradar.ru/product/lbx-billing-2/",
+      "title": "Yaspot",
+      "source_url": "https://productradar.ru/product/yaspot/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
       "published_at": null,
-      "period": "2026-11-16/2026-11-22",
+      "period": "2026-11-23/2026-11-29",
       "product_url": null,
-      "description": "Биллинг для SaaS, AI-сервисов с разными моделями оплаты: от подписки до оплаты по потреблению",
+      "description": "Первый и единственный сервис по переносу музыки из Яндекса и ВК в Spotify по одной ссылке",
       "categories": [
-        "Автоматизация",
-        "Все для разработчиков"
+        "Музыка и аудио",
+        "Услуги",
+        "Чат-боты в Телеграм",
+        "🤝Ищу партнерства и коллабы"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 325,
-      "comments_count": 7,
+      "metric_value": 2,
+      "comments_count": 0,
       "evidence": {
-        "title": "LBX Биллинг",
-        "data_votes": "325",
-        "comments_text": "7",
-        "period_datetime": "2026-11-16/2026-11-22"
+        "title": "Yaspot",
+        "data_votes": "2",
+        "comments_text": "0",
+        "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19579"
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "19716"
     },
     {
       "source": "Product Radar",
       "record_type": "product_listing",
-      "title": "Recca.ru 2.0",
-      "source_url": "https://productradar.ru/product/recca-ru-2-0/",
+      "title": "Пульт Станции",
+      "source_url": "https://productradar.ru/product/pult-stanczii/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
       "published_at": null,
-      "period": "2026-11-16/2026-11-22",
+      "period": "2026-11-23/2026-11-29",
       "product_url": null,
-      "description": "Запустите свою CPA-сеть: офферы, вебмастера, рекламодатели, трекинг, постбеки. Аналог Affise в РФ.",
+      "description": "Яндекс Станция в строке меню Mac: плейлисты, громкость, а на время звонка или диктовки — тише",
+      "categories": [
+        "Музыка и аудио",
+        "Развлечения"
+      ],
+      "metric_name": "Product Radar votes (data-votes)",
+      "metric_value": 2,
+      "comments_count": 0,
+      "evidence": {
+        "title": "Пульт Станции",
+        "data_votes": "2",
+        "comments_text": "0",
+        "period_datetime": "2026-11-23/2026-11-29"
+      },
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "19730"
+    },
+    {
+      "source": "Product Radar",
+      "record_type": "product_listing",
+      "title": "Клайп",
+      "source_url": "https://productradar.ru/product/klajp/",
+      "collection_url": "https://productradar.ru/",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
+      "published_at": null,
+      "period": "2026-11-23/2026-11-29",
+      "product_url": null,
+      "description": "ИИ-видеопродакшн для недвижимости: продающий Reels и видеотур из фото или ссылки Циан/Авито",
       "categories": [
         "🤝Ищу партнерства и коллабы",
         "🔥Хочу максимальную прожарку",
-        "Сервисы аналитики",
-        "Сервисы для продвижения бизнеса",
-        "Системы лояльности"
+        "Нейросети для аудио и видео",
+        "Нейросети для маркетинга и продаж",
+        "Недвижимость"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 283,
-      "comments_count": 13,
+      "metric_value": 2,
+      "comments_count": 1,
       "evidence": {
-        "title": "Recca.ru 2.0",
-        "data_votes": "283",
-        "comments_text": "13",
-        "period_datetime": "2026-11-16/2026-11-22"
+        "title": "Клайп",
+        "data_votes": "2",
+        "comments_text": "1",
+        "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19607"
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "18968"
     },
     {
       "source": "Product Radar",
       "record_type": "product_listing",
-      "title": "INDEXALL electric 2.0",
-      "source_url": "https://productradar.ru/product/indexall-electric-2/",
+      "title": "СООТВЕТСТВИЕ.РУС",
+      "source_url": "https://productradar.ru/product/sootvetstvie-rus/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
       "published_at": null,
-      "period": "2026-11-16/2026-11-22",
+      "period": "2026-11-23/2026-11-29",
       "product_url": null,
-      "description": "Конструктор электрощитов: распознает схемы, подбирает оборудование, цены и сроки, делает чертеж щита",
+      "description": "Декларации и сертификаты ЕАЭС в одном сервисе: поиск, проверка, оформление и мониторинг",
       "categories": [
         "Автоматизация",
-        "Нейросети для текстов и документов",
-        "Сервисы для управления проектами",
+        "Сервисы аналитики",
+        "Услуги",
         "🔥Хочу максимальную прожарку",
         "🤝Ищу партнерства и коллабы"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 208,
-      "comments_count": 15,
+      "metric_value": 1,
+      "comments_count": 1,
       "evidence": {
-        "title": "INDEXALL electric 2.0",
-        "data_votes": "208",
-        "comments_text": "15",
-        "period_datetime": "2026-11-16/2026-11-22"
+        "title": "СООТВЕТСТВИЕ.РУС",
+        "data_votes": "1",
+        "comments_text": "1",
+        "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19613"
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "19689"
     },
     {
       "source": "Product Radar",
       "record_type": "product_listing",
-      "title": "Teamlogs Recorder",
-      "source_url": "https://productradar.ru/product/teamlogs-recorder/",
+      "title": "Подбор",
+      "source_url": "https://productradar.ru/product/podbor/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
       "published_at": null,
-      "period": "2026-11-16/2026-11-22",
+      "period": "2026-11-23/2026-11-29",
       "product_url": null,
-      "description": "Без бота записывает созвоны в любой ВКС, в браузере и даже в переговорке. Расшифровка бесплатно",
-      "categories": [
-        "Видеоконференции",
-        "Нейросети для транскрибации",
-        "Совместная работа",
-        "🔥Хочу максимальную прожарку",
-        "🤝Ищу партнерства и коллабы"
-      ],
-      "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 153,
-      "comments_count": 9,
-      "evidence": {
-        "title": "Teamlogs Recorder",
-        "data_votes": "153",
-        "comments_text": "9",
-        "period_datetime": "2026-11-16/2026-11-22"
-      },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "18824"
-    },
-    {
-      "source": "Product Radar",
-      "record_type": "product_listing",
-      "title": "Gramax c ИИ-агентом",
-      "source_url": "https://productradar.ru/product/gramax-c-ii-agentom/",
-      "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
-      "published_at": null,
-      "period": "2026-11-16/2026-11-22",
-      "product_url": null,
-      "description": "База знаний, где ИИ-агент пишет протоколы и ТЗ из записей встреч",
-      "categories": [
-        "ИИ-ассистенты и агенты",
-        "Система управления обучением (LMS)",
-        "Управление знаниями (базы знаний)"
-      ],
-      "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 137,
-      "comments_count": 8,
-      "evidence": {
-        "title": "Gramax c ИИ-агентом",
-        "data_votes": "137",
-        "comments_text": "8",
-        "period_datetime": "2026-11-16/2026-11-22"
-      },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19603"
-    },
-    {
-      "source": "Product Radar",
-      "record_type": "product_listing",
-      "title": "Palert 2.0",
-      "source_url": "https://productradar.ru/product/palert-2-0/",
-      "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
-      "published_at": null,
-      "period": "2026-11-16/2026-11-22",
-      "product_url": null,
-      "description": "Следит за ценами на Ozon, WB и ещё 10 площадках и пишет в Telegram и MAX, когда товар подешевел",
-      "categories": [
-        "Инструменты и сервисы для продавцов на маркетплейсах",
-        "Приложения и инструменты для учета финансов",
-        "Чат-боты в Телеграм",
-        "🔥Хочу максимальную прожарку"
-      ],
-      "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 87,
-      "comments_count": 9,
-      "evidence": {
-        "title": "Palert 2.0",
-        "data_votes": "87",
-        "comments_text": "9",
-        "period_datetime": "2026-11-16/2026-11-22"
-      },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19557"
-    },
-    {
-      "source": "Product Radar",
-      "record_type": "product_listing",
-      "title": "Нетворкли",
-      "source_url": "https://productradar.ru/product/netvorkli/",
-      "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
-      "published_at": null,
-      "period": "2026-11-16/2026-11-22",
-      "product_url": null,
-      "description": "Каталог Айти мероприятий и платформа для организатора",
-      "categories": [
-        "Сервисы и инструменты для образования",
-        "Сообщества и медиа",
-        "🔥Хочу максимальную прожарку",
-        "🤝Ищу партнерства и коллабы"
-      ],
-      "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 75,
-      "comments_count": 3,
-      "evidence": {
-        "title": "Нетворкли",
-        "data_votes": "75",
-        "comments_text": "3",
-        "period_datetime": "2026-11-16/2026-11-22"
-      },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19617"
-    },
-    {
-      "source": "Product Radar",
-      "record_type": "product_listing",
-      "title": "Hire by Stafflow",
-      "source_url": "https://productradar.ru/product/hire-by-stafflow/",
-      "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
-      "published_at": null,
-      "period": "2026-11-16/2026-11-22",
-      "product_url": null,
-      "description": "Умная и простая платформа для массового и регулярного найма в СНГ.",
+      "description": "Платформа для умного поиска кандидатов, разбора откликов и аналитики рынка",
       "categories": [
         "Автоматизация",
         "ИИ-ассистенты и агенты",
         "Работа с персоналом",
-        "🌐Ищу поддержку для выхода за рубеж",
-        "💰Рассматриваю финансирование",
-        "🔥Хочу максимальную прожарку"
-      ],
-      "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 69,
-      "comments_count": 3,
-      "evidence": {
-        "title": "Hire by Stafflow",
-        "data_votes": "69",
-        "comments_text": "3",
-        "period_datetime": "2026-11-16/2026-11-22"
-      },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19659"
-    },
-    {
-      "source": "Product Radar",
-      "record_type": "product_listing",
-      "title": "Летучка 2.0",
-      "source_url": "https://productradar.ru/product/letuchka-ru/",
-      "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
-      "published_at": null,
-      "period": "2026-11-16/2026-11-22",
-      "product_url": null,
-      "description": "Сервис для создания онлайн тестов по тексту и файлам с полным циклом тестирования",
-      "categories": [
-        "Автоматизация",
-        "Нейросети для текстов и документов",
-        "Система управления обучением (LMS)",
-        "🎓Ищу ментора",
         "🤝Ищу партнерства и коллабы"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 59,
-      "comments_count": 1,
+      "metric_value": 1,
+      "comments_count": 0,
       "evidence": {
-        "title": "Летучка 2.0",
-        "data_votes": "59",
-        "comments_text": "1",
-        "period_datetime": "2026-11-16/2026-11-22"
+        "title": "Подбор",
+        "data_votes": "1",
+        "comments_text": "0",
+        "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19575"
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "18536"
     },
     {
       "source": "Product Radar",
       "record_type": "product_listing",
-      "title": "Аспро.Cloud",
-      "source_url": "https://productradar.ru/product/aspro-cloud-2/",
+      "title": "Комната ИИ",
+      "source_url": "https://productradar.ru/product/komnata-ii/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-23T08:55:11.782927+00:00",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
       "published_at": null,
-      "period": "2026-11-16/2026-11-22",
+      "period": "2026-11-23/2026-11-29",
       "product_url": null,
-      "description": "Сервис управления проектами, финансами и клиентами",
+      "description": "Онлайн-сервис для дизайна интерьера с помощью нейросети",
       "categories": [
-        "CRM",
-        "Сервисы для управления проектами",
-        "Совместная работа",
+        "Нейросети для картинок",
+        "🤝Ищу партнерства и коллабы"
+      ],
+      "metric_name": "Product Radar votes (data-votes)",
+      "metric_value": 1,
+      "comments_count": 0,
+      "evidence": {
+        "title": "Комната ИИ",
+        "data_votes": "1",
+        "comments_text": "0",
+        "period_datetime": "2026-11-23/2026-11-29"
+      },
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "19054"
+    },
+    {
+      "source": "Product Radar",
+      "record_type": "product_listing",
+      "title": "Мы все – родня!",
+      "source_url": "https://productradar.ru/product/my-vse-rodnya/",
+      "collection_url": "https://productradar.ru/",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
+      "published_at": null,
+      "period": "2026-11-23/2026-11-29",
+      "product_url": null,
+      "description": "Создавайте семейное древо, находите родню и объединяйте деревья в единое мировое древо.",
+      "categories": [
+        "Сообщества и медиа",
+        "Социальные проекты",
         "🔥Хочу максимальную прожарку",
         "🤝Ищу партнерства и коллабы"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 59,
-      "comments_count": 8,
+      "metric_value": 1,
+      "comments_count": 0,
       "evidence": {
-        "title": "Аспро.Cloud",
-        "data_votes": "59",
-        "comments_text": "8",
-        "period_datetime": "2026-11-16/2026-11-22"
+        "title": "Мы все – родня!",
+        "data_votes": "1",
+        "comments_text": "0",
+        "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "ccbff9aef96fe6dd482fd11c2398a8a6426dbb5cd40fef637673b42442192098",
-      "source_id": "19628"
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "19634"
+    },
+    {
+      "source": "Product Radar",
+      "record_type": "product_listing",
+      "title": "Юный Кодер от Айти Знайка",
+      "source_url": "https://productradar.ru/product/yunyj-koder-ot-ajti-znajka/",
+      "collection_url": "https://productradar.ru/",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
+      "published_at": null,
+      "period": "2026-11-23/2026-11-29",
+      "product_url": null,
+      "description": "Обучение школьников алгоритмизации, программированию и машинному обучению: от Scratch до Python.",
+      "categories": [
+        "Сервисы и инструменты для образования",
+        "🌐Ищу поддержку для выхода за рубеж",
+        "🤝Ищу партнерства и коллабы"
+      ],
+      "metric_name": "Product Radar votes (data-votes)",
+      "metric_value": 1,
+      "comments_count": 1,
+      "evidence": {
+        "title": "Юный Кодер от Айти Знайка",
+        "data_votes": "1",
+        "comments_text": "1",
+        "period_datetime": "2026-11-23/2026-11-29"
+      },
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "19026"
+    },
+    {
+      "source": "Product Radar",
+      "record_type": "product_listing",
+      "title": "GymDesk",
+      "source_url": "https://productradar.ru/product/gymdesk/",
+      "collection_url": "https://productradar.ru/",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
+      "published_at": null,
+      "period": "2026-11-23/2026-11-29",
+      "product_url": null,
+      "description": "Приложение для фитнес-тренера: журнал тренировок в зале + клиент видит программу по ссылке",
+      "categories": [
+        "Сервисы и инструменты для спорта",
+        "🔥Хочу максимальную прожарку",
+        "🤝Ищу партнерства и коллабы"
+      ],
+      "metric_name": "Product Radar votes (data-votes)",
+      "metric_value": 1,
+      "comments_count": 0,
+      "evidence": {
+        "title": "GymDesk",
+        "data_votes": "1",
+        "comments_text": "0",
+        "period_datetime": "2026-11-23/2026-11-29"
+      },
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "14497"
+    },
+    {
+      "source": "Product Radar",
+      "record_type": "product_listing",
+      "title": "Motty",
+      "source_url": "https://productradar.ru/product/motty-schyotchik-kalorij-ai/",
+      "collection_url": "https://productradar.ru/",
+      "fetched_at": "2026-11-23T09:04:20.478025+00:00",
+      "published_at": null,
+      "period": "2026-11-23/2026-11-29",
+      "product_url": null,
+      "description": "ИИ считает КБЖУ. Добавляй друзей или тренера для поддержки, мотивации и контроля прогресса!",
+      "categories": [
+        "Здоровье",
+        "ИИ для поиска, аналитики и данных",
+        "Сервисы и инструменты для спорта",
+        "🔥Хочу максимальную прожарку",
+        "🤝Ищу партнерства и коллабы"
+      ],
+      "metric_name": "Product Radar votes (data-votes)",
+      "metric_value": 1,
+      "comments_count": 0,
+      "evidence": {
+        "title": "Motty",
+        "data_votes": "1",
+        "comments_text": "0",
+        "period_datetime": "2026-11-23/2026-11-29"
+      },
+      "response_sha256": "e3b0e1532ccdd784f35b358818e93bb97d5f613dcf26593cfe1fef8f015f3912",
+      "source_id": "17944"
     },
     {
       "source": "Habr / Product Radar",
@@ -358,7 +351,7 @@
       "title": "Снова на Радаре: 16 подросших стартапов к трёхлетию площадки",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1108510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T08:55:14.642204+00:00",
+      "fetched_at": "2026-11-23T09:04:22.352085+00:00",
       "published_at": "2026-11-17T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -392,7 +385,7 @@
       "title": "ИИ-подсказки для переписки, российская ОС для виртуальных серверов и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1105648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T08:55:14.642204+00:00",
+      "fetched_at": "2026-11-23T09:04:22.352085+00:00",
       "published_at": "2026-11-10T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -426,7 +419,7 @@
       "title": "Кофейный паспорт, планирование загородного участка в 3D и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1103294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T08:55:14.642204+00:00",
+      "fetched_at": "2026-11-23T09:04:22.352085+00:00",
       "published_at": "2026-11-04T05:45:38+00:00",
       "period": null,
       "product_url": null,
@@ -460,7 +453,7 @@
       "title": "Книга мертвых стартапов. Выпуск 2026: До последнего клиента",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1102068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T08:55:14.642204+00:00",
+      "fetched_at": "2026-11-23T09:04:22.352085+00:00",
       "published_at": "2026-10-31T12:36:34+00:00",
       "period": null,
       "product_url": null,
@@ -492,7 +485,7 @@
       "title": "ИИ-сериал из одной идеи, черновой монтаж видео в Premiere Pro за минуты и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1099716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-23T08:55:14.642204+00:00",
+      "fetched_at": "2026-11-23T09:04:22.352085+00:00",
       "published_at": "2026-10-27T05:46:43+00:00",
       "period": null,
       "product_url": null,
@@ -526,7 +519,7 @@
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "source_url": "https://news.ycombinator.com/item?id=50599762",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:15.114974+00:00",
+      "fetched_at": "2026-11-23T09:04:22.864503+00:00",
       "published_at": "2026-11-22T13:56:58+00:00",
       "period": null,
       "product_url": "https://github.com/gulivan/worker755",
@@ -543,7 +536,7 @@
         "score": 313,
         "descendants": 76
       },
-      "response_sha256": "e336a7ff9ef075cafc1f0da11e5d869beee6eeb81642c9c6fd511c72ae1e8343",
+      "response_sha256": "881c5cdc57ea71785f2af3936bef049b4b3afc3f9abcfc5290c0001465753836",
       "source_id": "50599762"
     },
     {
@@ -552,7 +545,7 @@
       "title": "Show HN: High-Performance Reverse SOCKS5, UDP and MTProto Proxy Cluster in Go",
       "source_url": "https://news.ycombinator.com/item?id=50607951",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:15.397857+00:00",
+      "fetched_at": "2026-11-23T09:04:23.121191+00:00",
       "published_at": "2026-11-23T05:49:45+00:00",
       "period": null,
       "product_url": "https://github.com/zenkdom/reverse-socks-go",
@@ -578,7 +571,7 @@
       "title": "Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware",
       "source_url": "https://news.ycombinator.com/item?id=50606513",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:15.674797+00:00",
+      "fetched_at": "2026-11-23T09:04:23.389547+00:00",
       "published_at": "2026-11-23T01:52:12+00:00",
       "period": null,
       "product_url": "https://github.com/njgreb/n64fireplace",
@@ -604,7 +597,7 @@
       "title": "Show HN: I used Fable to make an open source 80s-style Skyrim browser game",
       "source_url": "https://news.ycombinator.com/item?id=50606209",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:15.952588+00:00",
+      "fetched_at": "2026-11-23T09:04:23.664515+00:00",
       "published_at": "2026-11-23T01:15:59+00:00",
       "period": null,
       "product_url": "https://thanes-quest.daventry.io/",
@@ -630,7 +623,7 @@
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "source_url": "https://news.ycombinator.com/item?id=50590279",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:16.239721+00:00",
+      "fetched_at": "2026-11-23T09:04:23.954598+00:00",
       "published_at": "2026-11-21T15:39:09+00:00",
       "period": null,
       "product_url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -638,16 +631,16 @@
       "categories": [],
       "metric_name": "Hacker News score",
       "metric_value": 176,
-      "comments_count": 126,
+      "comments_count": 127,
       "evidence": {
         "id": 50590279,
         "title": "Show HN: Zero C# – C# without a runtime or GC",
         "time": 1795275549,
         "url": "https://onurgumus.github.io/zero-csharp/index.html",
         "score": 176,
-        "descendants": 126
+        "descendants": 127
       },
-      "response_sha256": "9521dd690b8c718ca12e6aa5b16bfde49333f4a0b664f1d6902901cea30a124f",
+      "response_sha256": "4d43d89c89d27c637a88133bdafbd381656d2a0a224cb328db0268c9cf595666",
       "source_id": "50590279"
     },
     {
@@ -656,7 +649,7 @@
       "title": "Show HN: Dere Type Quiz – a free 2-minute dere test",
       "source_url": "https://news.ycombinator.com/item?id=50606696",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:16.519094+00:00",
+      "fetched_at": "2026-11-23T09:04:24.230163+00:00",
       "published_at": "2026-11-23T02:16:16+00:00",
       "period": null,
       "product_url": "https://deretypesquiz.com/",
@@ -682,7 +675,7 @@
       "title": "Show HN: Hammerspoon 2 Beta 1 is released",
       "source_url": "https://news.ycombinator.com/item?id=50606408",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:16.819632+00:00",
+      "fetched_at": "2026-11-23T09:04:24.511121+00:00",
       "published_at": "2026-11-23T01:40:22+00:00",
       "period": null,
       "product_url": "https://www.hammerspoon.org/",
@@ -708,7 +701,7 @@
       "title": "Show HN: Biohacking in Chess – can coffee make you a better player?",
       "source_url": "https://news.ycombinator.com/item?id=50606386",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:17.094894+00:00",
+      "fetched_at": "2026-11-23T09:04:24.785427+00:00",
       "published_at": "2026-11-23T01:38:39+00:00",
       "period": null,
       "product_url": "https://plantsresearch.pro/chess-lab",
@@ -734,7 +727,7 @@
       "title": "Show HN: Thir – Linux 6.12 kernel with an all-Rust userspace and framebuffer GUI",
       "source_url": "https://news.ycombinator.com/item?id=50606291",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:17.377930+00:00",
+      "fetched_at": "2026-11-23T09:04:25.047108+00:00",
       "published_at": "2026-11-23T01:25:18+00:00",
       "period": null,
       "product_url": "https://github.com/Adhishtanaka/thir",
@@ -757,28 +750,28 @@
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: BreakingChips – a machining reference that cites every number",
-      "source_url": "https://news.ycombinator.com/item?id=50606176",
+      "title": "Show HN: An ASCII cell aquarium for your terminal",
+      "source_url": "https://news.ycombinator.com/item?id=50541047",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-23T08:55:17.655172+00:00",
-      "published_at": "2026-11-23T01:12:03+00:00",
+      "fetched_at": "2026-11-23T09:04:25.311994+00:00",
+      "published_at": "2026-11-18T02:18:29+00:00",
       "period": null,
-      "product_url": "https://breakingchips.com/",
+      "product_url": "https://github.com/kborer/cells/",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 3,
-      "comments_count": 0,
+      "metric_value": 66,
+      "comments_count": 22,
       "evidence": {
-        "id": 50606176,
-        "title": "Show HN: BreakingChips – a machining reference that cites every number",
-        "time": 1795396323,
-        "url": "https://breakingchips.com/",
-        "score": 3,
-        "descendants": 0
+        "id": 50541047,
+        "title": "Show HN: An ASCII cell aquarium for your terminal",
+        "time": 1794968309,
+        "url": "https://github.com/kborer/cells/",
+        "score": 66,
+        "descendants": 22
       },
-      "response_sha256": "c0a8ddbf62b80d89dbc413ca3b1f715ee8261b040f617554224d4df6648f058b",
-      "source_id": "50606176"
+      "response_sha256": "fb01bd6396b0edf63b8216c0a667503c053f46cd7614d1043bd4a7af70fe41ab",
+      "source_id": "50541047"
     }
   ],
   "limitations": [
