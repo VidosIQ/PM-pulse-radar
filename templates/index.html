@@ -87,7 +87,7 @@ detail[1].querySelector('h3').textContent=`Product Radar · ${groups['Product Ra
 detail[1].querySelector('p').textContent=`До 10 карточек первого видимого набора. Период: ${periodText}. Голоса — data-votes, категории и комментарии — HTML карточек. Дата выхода на рынок не определялась.`;
 detail[2].querySelector('h3').textContent=`Show HN · ${groups['Show HN'].length} публикаций`;
 detail[3].querySelector('h3').textContent=`Хабр · ${groups['Habr / Product Radar'].length} статей`;
-document.querySelector('.dialog-note').textContent='Последняя попытка: '+msk(snapshot.completed_at)+'. При ошибке источника сохраняем его предыдущие данные с исходной датой; отсутствующие значения не превращаем в ноль.';
+document.querySelector('#sources-dialog .dialog-note').textContent='Последняя попытка: '+msk(snapshot.completed_at)+'. При ошибке источника сохраняем его предыдущие данные с исходной датой; отсутствующие значения не превращаем в ноль.';
 const status=document.createElement('div');status.id='update-status';status.className='panel';status.style.marginBottom='18px';
 const title=document.createElement('strong');title.textContent=snapshot.sources.every(s=>s.result==='ok')?'Все источники обновлены':'Есть источники без свежих данных';status.append(title);
 snapshot.sources.forEach(s=>{const p=document.createElement('p');p.style.fontSize='.8rem';p.style.marginTop='4px';p.textContent=`${s.source}: ${s.result==='ok'?'обновлён':s.result==='cached'?'сохранён прежний срез':'недоступен'} · данные: ${msk(s.data_fetched_at||s.metadata?.fetched_at)}${s.error?' · '+s.error:''}`;status.append(p)});
