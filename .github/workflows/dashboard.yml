@@ -4,9 +4,10 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    # Daily update at 09:15 Moscow time.
     - cron: '15 9 * * *'
       timezone: 'Europe/Moscow'
+    # Временная проверка таймера
+    - cron: '*/5 * * * *'
 concurrency:
   group: dashboard-pages
   cancel-in-progress: false
