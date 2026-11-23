@@ -6,8 +6,6 @@ on:
   schedule:
     - cron: '15 9 * * *'
       timezone: 'Europe/Moscow'
-    # Временная проверка таймера
-    - cron: '*/5 * * * *'
 concurrency:
   group: dashboard-pages
   cancel-in-progress: false
