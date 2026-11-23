@@ -7,8 +7,6 @@ on:
     # Daily update at 09:15 Moscow time.
     - cron: '15 9 * * *'
       timezone: 'Europe/Moscow'
-    # Temporary scheduler verification; removed after diagnosis.
-    - cron: '*/5 * * * *'
 concurrency:
   group: dashboard-pages
   cancel-in-progress: false
