@@ -6,8 +6,7 @@ on:
       - 'docs/**'
   workflow_dispatch:
   schedule:
-    - cron: '15 9 * * *'
-      timezone: 'Europe/Moscow'
+    - cron: '55 7 * * *'
 concurrency:
   group: dashboard-pages
   cancel-in-progress: false
