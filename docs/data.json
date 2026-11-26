@@ -1,6 +1,6 @@
 {
-  "run_id": "20261125T170719Z",
-  "completed_at": "2026-11-25T17:07:19.076642+00:00",
+  "run_id": "20261126T091653Z",
+  "completed_at": "2026-11-26T09:16:53.751540+00:00",
   "is_trial": false,
   "parser_version": "github-1.0",
   "sources": [
@@ -13,11 +13,11 @@
         "url": "https://productradar.ru/",
         "final_url": "https://productradar.ru/",
         "status": 200,
-        "fetched_at": "2026-11-25T17:07:14.518671+00:00",
-        "sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c"
+        "fetched_at": "2026-11-26T09:16:47.895597+00:00",
+        "sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861"
       },
-      "data_fetched_at": "2026-11-25T17:07:14.518671+00:00",
-      "attempted_at": "2026-11-25T17:07:14.534307+00:00"
+      "data_fetched_at": "2026-11-26T09:16:47.895597+00:00",
+      "attempted_at": "2026-11-26T09:16:47.911305+00:00"
     },
     {
       "source": "Habr / Product Radar",
@@ -28,18 +28,18 @@
         "url": "https://habr.com/ru/companies/productradar/articles/",
         "final_url": "https://habr.com/ru/companies/productradar/articles/",
         "status": 200,
-        "fetched_at": "2026-11-25T17:07:15.785089+00:00",
-        "sha256": "0ae3aced7340e421bbc766c93ccfad0d8f74f326e93691b74746141a3a332f09"
+        "fetched_at": "2026-11-26T09:16:49.543048+00:00",
+        "sha256": "5dba6af4dea3af370193029a3fcc91d67b1d92e6612ffd9365bc99ae0bc04daa"
       },
       "metadata": {
         "url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "final_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "status": 200,
-        "fetched_at": "2026-11-25T17:07:16.748842+00:00",
-        "sha256": "278b790f2c379c2bb215261fed633836c36cfb4879b577fe6097189d7bd820df"
+        "fetched_at": "2026-11-26T09:16:51.063986+00:00",
+        "sha256": "541bbdf43076d112e63a95b4803e17238e94e796674a4f1b2ac2ebb21d13b19b"
       },
-      "data_fetched_at": "2026-11-25T17:07:16.748842+00:00",
-      "attempted_at": "2026-11-25T17:07:16.751335+00:00"
+      "data_fetched_at": "2026-11-26T09:16:51.063986+00:00",
+      "attempted_at": "2026-11-26T09:16:51.066456+00:00"
     },
     {
       "source": "Show HN",
@@ -50,11 +50,11 @@
         "url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "final_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "status": 200,
-        "fetched_at": "2026-11-25T17:07:16.877530+00:00",
-        "sha256": "42d0e2ae900f8ee14ed18f0b1840a2feebf291178648129d1707f13e06fa62a1"
+        "fetched_at": "2026-11-26T09:16:51.164084+00:00",
+        "sha256": "6074f6c50aef9cf9de41ce78ea61f21183f963f3d6a0dedca6726b50f82a1010"
       },
-      "data_fetched_at": "2026-11-25T17:07:19.076329+00:00",
-      "attempted_at": "2026-11-25T17:07:19.076603+00:00"
+      "data_fetched_at": "2026-11-26T09:16:53.751191+00:00",
+      "attempted_at": "2026-11-26T09:16:53.751510+00:00"
     }
   ],
   "records": [
@@ -64,7 +64,7 @@
       "title": "Клайп",
       "source_url": "https://productradar.ru/product/klajp/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -77,15 +77,15 @@
         "Недвижимость"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 115,
+      "metric_value": 129,
       "comments_count": 11,
       "evidence": {
         "title": "Клайп",
-        "data_votes": "115",
+        "data_votes": "129",
         "comments_text": "11",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "18968"
     },
     {
@@ -94,27 +94,27 @@
       "title": "Мы все – родня!",
       "source_url": "https://productradar.ru/product/my-vse-rodnya/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
       "description": "Создавайте семейное древо, находите родню и объединяйте деревья в единое мировое древо.",
       "categories": [
-        "Сообщества и медиа",
-        "Социальные проекты",
+        "🤝Ищу партнерства и коллабы",
         "🔥Хочу максимальную прожарку",
-        "🤝Ищу партнерства и коллабы"
+        "Сообщества и медиа",
+        "Социальные проекты"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 88,
-      "comments_count": 11,
+      "metric_value": 96,
+      "comments_count": 13,
       "evidence": {
         "title": "Мы все – родня!",
-        "data_votes": "88",
-        "comments_text": "11",
+        "data_votes": "96",
+        "comments_text": "13",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "19634"
     },
     {
@@ -123,7 +123,7 @@
       "title": "СООТВЕТСТВИЕ.РУС",
       "source_url": "https://productradar.ru/product/sootvetstvie-rus/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -144,7 +144,7 @@
         "comments_text": "5",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "19689"
     },
     {
@@ -153,7 +153,7 @@
       "title": "Yaspot",
       "source_url": "https://productradar.ru/product/yaspot/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -165,15 +165,15 @@
         "🤝Ищу партнерства и коллабы"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 43,
+      "metric_value": 44,
       "comments_count": 3,
       "evidence": {
         "title": "Yaspot",
-        "data_votes": "43",
+        "data_votes": "44",
         "comments_text": "3",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "19716"
     },
     {
@@ -182,7 +182,7 @@
       "title": "Юный Кодер от Айти Знайка",
       "source_url": "https://productradar.ru/product/yunyj-koder-ot-ajti-znajka/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -201,7 +201,7 @@
         "comments_text": "3",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "19026"
     },
     {
@@ -210,7 +210,7 @@
       "title": "Motty",
       "source_url": "https://productradar.ru/product/motty-schyotchik-kalorij-ai/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -223,15 +223,15 @@
         "🤝Ищу партнерства и коллабы"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 24,
+      "metric_value": 25,
       "comments_count": 0,
       "evidence": {
         "title": "Motty",
-        "data_votes": "24",
+        "data_votes": "25",
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "17944"
     },
     {
@@ -240,7 +240,7 @@
       "title": "Комната ИИ",
       "source_url": "https://productradar.ru/product/komnata-ii/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -258,7 +258,7 @@
         "comments_text": "1",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "19054"
     },
     {
@@ -267,7 +267,7 @@
       "title": "GymDesk",
       "source_url": "https://productradar.ru/product/gymdesk/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -286,7 +286,7 @@
         "comments_text": "4",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "14497"
     },
     {
@@ -295,7 +295,7 @@
       "title": "Пульт Станции",
       "source_url": "https://productradar.ru/product/pult-stanczii/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -313,7 +313,7 @@
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "19730"
     },
     {
@@ -322,7 +322,7 @@
       "title": "Подбор",
       "source_url": "https://productradar.ru/product/podbor/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-25T17:07:14.518671+00:00",
+      "fetched_at": "2026-11-26T09:16:47.895597+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -342,7 +342,7 @@
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "906ce8e20fa3b8927b9cc0d2bda6369f83570543c2c8c5c692fc00ff48f6ab9c",
+      "response_sha256": "58d7188fccb58b4bbdebf6d3768eadeda56f28869110d11d3fb2955a1954d861",
       "source_id": "18536"
     },
     {
@@ -351,7 +351,7 @@
       "title": "Считаем калории вместе с друзьями, создаем рилсы и видеотуры из ссылки на Циан или Авито и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1111462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-25T17:07:16.748842+00:00",
+      "fetched_at": "2026-11-26T09:16:51.063986+00:00",
       "published_at": "2026-11-24T05:45:41+00:00",
       "period": null,
       "product_url": null,
@@ -375,7 +375,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1111462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 24 Nov 2026 05:45:41 GMT"
       },
-      "response_sha256": "278b790f2c379c2bb215261fed633836c36cfb4879b577fe6097189d7bd820df",
+      "response_sha256": "541bbdf43076d112e63a95b4803e17238e94e796674a4f1b2ac2ebb21d13b19b",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1111462/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -385,7 +385,7 @@
       "title": "Снова на Радаре: 16 подросших стартапов к трёхлетию площадки",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1108510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-25T17:07:16.748842+00:00",
+      "fetched_at": "2026-11-26T09:16:51.063986+00:00",
       "published_at": "2026-11-17T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -409,7 +409,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1108510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 17 Nov 2026 05:46:17 GMT"
       },
-      "response_sha256": "278b790f2c379c2bb215261fed633836c36cfb4879b577fe6097189d7bd820df",
+      "response_sha256": "541bbdf43076d112e63a95b4803e17238e94e796674a4f1b2ac2ebb21d13b19b",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1108510/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -419,7 +419,7 @@
       "title": "ИИ-подсказки для переписки, российская ОС для виртуальных серверов и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1105648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-25T17:07:16.748842+00:00",
+      "fetched_at": "2026-11-26T09:16:51.063986+00:00",
       "published_at": "2026-11-10T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -443,7 +443,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1105648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 10 Nov 2026 05:46:17 GMT"
       },
-      "response_sha256": "278b790f2c379c2bb215261fed633836c36cfb4879b577fe6097189d7bd820df",
+      "response_sha256": "541bbdf43076d112e63a95b4803e17238e94e796674a4f1b2ac2ebb21d13b19b",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1105648/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -453,7 +453,7 @@
       "title": "Кофейный паспорт, планирование загородного участка в 3D и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1103294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-25T17:07:16.748842+00:00",
+      "fetched_at": "2026-11-26T09:16:51.063986+00:00",
       "published_at": "2026-11-04T05:45:38+00:00",
       "period": null,
       "product_url": null,
@@ -477,7 +477,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1103294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Wed, 04 Nov 2026 05:45:38 GMT"
       },
-      "response_sha256": "278b790f2c379c2bb215261fed633836c36cfb4879b577fe6097189d7bd820df",
+      "response_sha256": "541bbdf43076d112e63a95b4803e17238e94e796674a4f1b2ac2ebb21d13b19b",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1103294/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -487,7 +487,7 @@
       "title": "Книга мертвых стартапов. Выпуск 2026: До последнего клиента",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1102068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-25T17:07:16.748842+00:00",
+      "fetched_at": "2026-11-26T09:16:51.063986+00:00",
       "published_at": "2026-10-31T12:36:34+00:00",
       "period": null,
       "product_url": null,
@@ -509,87 +509,139 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1102068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Sat, 31 Oct 2026 12:36:34 GMT"
       },
-      "response_sha256": "278b790f2c379c2bb215261fed633836c36cfb4879b577fe6097189d7bd820df",
+      "response_sha256": "541bbdf43076d112e63a95b4803e17238e94e796674a4f1b2ac2ebb21d13b19b",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1102068/",
       "author": "tw0face (Product Radar)"
     },
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "source_url": "https://news.ycombinator.com/item?id=50638503",
+      "title": "Show HN: Synth Patch Hero",
+      "source_url": "https://news.ycombinator.com/item?id=50623232",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:17.094822+00:00",
-      "published_at": "2026-11-25T04:31:48+00:00",
+      "fetched_at": "2026-11-26T09:16:51.395161+00:00",
+      "published_at": "2026-11-24T03:24:22+00:00",
       "period": null,
-      "product_url": "https://gpu-demo-gallery.pages.dev/",
+      "product_url": "https://swarkentin.github.io/synth-patch-hero/",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 272,
-      "comments_count": 60,
+      "metric_value": 30,
+      "comments_count": 7,
       "evidence": {
-        "id": 50638503,
-        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "time": 1795581108,
-        "url": "https://gpu-demo-gallery.pages.dev/",
-        "score": 272,
-        "descendants": 60
+        "id": 50623232,
+        "title": "Show HN: Synth Patch Hero",
+        "time": 1795490662,
+        "url": "https://swarkentin.github.io/synth-patch-hero/",
+        "score": 30,
+        "descendants": 7
       },
-      "response_sha256": "a37f9b04913ff7df1bb97d5a1ec027ec943989f4e36a36716ba1a2d6eda86440",
-      "source_id": "50638503"
+      "response_sha256": "b51f3e38dc49e5d9b7128dfa7db322b5ee9ac1eb801ef5963d4a5f86f4b645b1",
+      "source_id": "50623232"
     },
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: USBNet – Reverse Tethering for Mac and iOS",
-      "source_url": "https://news.ycombinator.com/item?id=50643202",
+      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+      "source_url": "https://news.ycombinator.com/item?id=50611593",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:17.314788+00:00",
-      "published_at": "2026-11-25T15:20:26+00:00",
+      "fetched_at": "2026-11-26T09:16:51.627704+00:00",
+      "published_at": "2026-11-23T14:02:15+00:00",
       "period": null,
-      "product_url": "https://github.com/xatuke/usbnet",
+      "product_url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 2,
+      "metric_value": 113,
+      "comments_count": 10,
+      "evidence": {
+        "id": 50611593,
+        "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+        "time": 1795442535,
+        "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+        "score": 113,
+        "descendants": 10
+      },
+      "response_sha256": "392925b9eb5f06c96f0bbfe772fadb73105cc9ad90dbdd233ad7b33d90fa6ade",
+      "source_id": "50611593"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: Anthropic and OpenAI Math Tracker",
+      "source_url": "https://news.ycombinator.com/item?id=50652560",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-26T09:16:51.857562+00:00",
+      "published_at": "2026-11-26T07:38:01+00:00",
+      "period": null,
+      "product_url": "https://bedolpab.github.io/antoai-math/",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 5,
       "comments_count": 0,
       "evidence": {
-        "id": 50643202,
-        "title": "Show HN: USBNet – Reverse Tethering for Mac and iOS",
-        "time": 1795620026,
-        "url": "https://github.com/xatuke/usbnet",
-        "score": 2,
+        "id": 50652560,
+        "title": "Show HN: Anthropic and OpenAI Math Tracker",
+        "time": 1795678681,
+        "url": "https://bedolpab.github.io/antoai-math/",
+        "score": 5,
         "descendants": 0
       },
-      "response_sha256": "0e1a5cb5f13377a89b11114f558451c980b8077fddbbf270de6e0ee2e4ec66c7",
-      "source_id": "50643202"
+      "response_sha256": "51825af181fb3047cafa22bc7d2dbb19a745895aa73c8e4afdfcb7cbf3f1ae03",
+      "source_id": "50652560"
     },
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: Rusty Teams – A Native Microsoft Teams Client in Rust",
-      "source_url": "https://news.ycombinator.com/item?id=50642773",
+      "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+      "source_url": "https://news.ycombinator.com/item?id=50624684",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:17.532170+00:00",
-      "published_at": "2026-11-25T14:37:40+00:00",
+      "fetched_at": "2026-11-26T09:16:52.086938+00:00",
+      "published_at": "2026-11-24T07:03:33+00:00",
       "period": null,
-      "product_url": "https://github.com/danieldaeschle/rusty-teams",
+      "product_url": "https://www.rchive.computer/",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 4,
-      "comments_count": 2,
+      "metric_value": 47,
+      "comments_count": 25,
       "evidence": {
-        "id": 50642773,
-        "title": "Show HN: Rusty Teams – A Native Microsoft Teams Client in Rust",
-        "time": 1795617460,
-        "url": "https://github.com/danieldaeschle/rusty-teams",
-        "score": 4,
-        "descendants": 2
+        "id": 50624684,
+        "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+        "time": 1795503813,
+        "url": "https://www.rchive.computer/",
+        "score": 47,
+        "descendants": 25
       },
-      "response_sha256": "a7c16a11adb04e5edb6db9ef10617151ba005d8b8fa1f84f508eadc4ce924495",
-      "source_id": "50642773"
+      "response_sha256": "ac3618679cb485d37924b903631ec490c0a2f0bea38864708ff9e92e45110efa",
+      "source_id": "50624684"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "source_url": "https://news.ycombinator.com/item?id=50651099",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-26T09:16:52.318787+00:00",
+      "published_at": "2026-11-26T03:33:06+00:00",
+      "period": null,
+      "product_url": "https://olumino.app",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 9,
+      "comments_count": 5,
+      "evidence": {
+        "id": 50651099,
+        "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+        "time": 1795663986,
+        "url": "https://olumino.app",
+        "score": 9,
+        "descendants": 5
+      },
+      "response_sha256": "90115d34434103db37a52525f5fa8046541b35fdd012547939313f40f1f21fb4",
+      "source_id": "50651099"
     },
     {
       "source": "Show HN",
@@ -597,181 +649,129 @@
       "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
       "source_url": "https://news.ycombinator.com/item?id=50642300",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:17.746505+00:00",
+      "fetched_at": "2026-11-26T09:16:52.715094+00:00",
       "published_at": "2026-11-25T13:51:44+00:00",
       "period": null,
       "product_url": "https://github.com/click6067-ship-it/token-tv",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 5,
-      "comments_count": 0,
+      "metric_value": 46,
+      "comments_count": 3,
       "evidence": {
         "id": 50642300,
         "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
         "time": 1795614704,
         "url": "https://github.com/click6067-ship-it/token-tv",
-        "score": 5,
-        "descendants": 0
+        "score": 46,
+        "descendants": 3
       },
-      "response_sha256": "9934bd1056ac974f6d280c0cba977583509263619126074771ec6d0823e158dd",
+      "response_sha256": "d7493aac92907b2c84d42f2ed4a34dc223a6ad2cf13d0bb9441f48b66da83c18",
       "source_id": "50642300"
     },
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: I built a browser-based 2.5D voxel multiplayer shooter",
-      "source_url": "https://news.ycombinator.com/item?id=50642030",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "source_url": "https://news.ycombinator.com/item?id=50638503",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:17.968549+00:00",
-      "published_at": "2026-11-25T13:27:56+00:00",
+      "fetched_at": "2026-11-26T09:16:53.049280+00:00",
+      "published_at": "2026-11-25T04:31:48+00:00",
       "period": null,
-      "product_url": "https://qake.se",
+      "product_url": "https://gpu-demo-gallery.pages.dev/",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 4,
-      "comments_count": 4,
+      "metric_value": 346,
+      "comments_count": 80,
       "evidence": {
-        "id": 50642030,
-        "title": "Show HN: I built a browser-based 2.5D voxel multiplayer shooter",
-        "time": 1795613276,
-        "url": "https://qake.se",
-        "score": 4,
-        "descendants": 4
+        "id": 50638503,
+        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "time": 1795581108,
+        "url": "https://gpu-demo-gallery.pages.dev/",
+        "score": 346,
+        "descendants": 80
       },
-      "response_sha256": "ff4bb85095808357ae6302b1cae3707e0e0dc1e837dc5fa7a846ca786341cb3c",
-      "source_id": "50642030"
+      "response_sha256": "9e60a3ee49184748fd1cd4ede269cf0d3d071b341f8df0b9116a527d290acac1",
+      "source_id": "50638503"
     },
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
-      "source_url": "https://news.ycombinator.com/item?id=50637936",
+      "title": "Show HN: Ribbon Architect – Endless ways to tie a gift ribbon",
+      "source_url": "https://news.ycombinator.com/item?id=50627625",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:18.185489+00:00",
-      "published_at": "2026-11-25T03:10:18+00:00",
+      "fetched_at": "2026-11-26T09:16:53.288022+00:00",
+      "published_at": "2026-11-24T13:06:17+00:00",
       "period": null,
-      "product_url": "https://vcarl.com/sashay/",
+      "product_url": "https://ribbonarchitect.com",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 35,
-      "comments_count": 8,
+      "metric_value": 23,
+      "comments_count": 1,
       "evidence": {
-        "id": 50637936,
-        "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
-        "time": 1795576218,
-        "url": "https://vcarl.com/sashay/",
-        "score": 35,
-        "descendants": 8
+        "id": 50627625,
+        "title": "Show HN: Ribbon Architect – Endless ways to tie a gift ribbon",
+        "time": 1795525577,
+        "url": "https://ribbonarchitect.com",
+        "score": 23,
+        "descendants": 1
       },
-      "response_sha256": "cab46999e8f4a28bdea8a6ca43d90180788883f29c1daae3247f6418fb95ce9b",
-      "source_id": "50637936"
+      "response_sha256": "7b13df4543ebcbf5ecf72639e44fcfb60fb26b29111b7781cda6f3d8eb73020b",
+      "source_id": "50627625"
     },
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: Rethink Phone: experiments with an agent running on a rooted Android",
-      "source_url": "https://news.ycombinator.com/item?id=50641921",
+      "title": "Show HN: Auth proxy backed by hardware-attested Yubikeys",
+      "source_url": "https://news.ycombinator.com/item?id=50650638",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:18.401574+00:00",
-      "published_at": "2026-11-25T13:17:33+00:00",
+      "fetched_at": "2026-11-26T09:16:53.517840+00:00",
+      "published_at": "2026-11-26T02:22:54+00:00",
       "period": null,
-      "product_url": "https://rethinkphone.tech/",
+      "product_url": "https://github.com/adrianchifor/shomei",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 2,
+      "metric_value": 3,
       "comments_count": 0,
       "evidence": {
-        "id": 50641921,
-        "title": "Show HN: Rethink Phone: experiments with an agent running on a rooted Android",
-        "time": 1795612653,
-        "url": "https://rethinkphone.tech/",
-        "score": 2,
+        "id": 50650638,
+        "title": "Show HN: Auth proxy backed by hardware-attested Yubikeys",
+        "time": 1795659774,
+        "url": "https://github.com/adrianchifor/shomei",
+        "score": 3,
         "descendants": 0
       },
-      "response_sha256": "dbd88744b3a2ad5eb7e960f0fea62cf45b2fd4d9d0e8cdc93f6195d45dd27289",
-      "source_id": "50641921"
+      "response_sha256": "4f172ec09cc96f7038d7065151e0389cb4996c154c0ae8281a0d58b45c0b3fa6",
+      "source_id": "50650638"
     },
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
-      "source_url": "https://news.ycombinator.com/item?id=50637995",
+      "title": "Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",
+      "source_url": "https://news.ycombinator.com/item?id=50635055",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:18.620663+00:00",
-      "published_at": "2026-11-25T03:19:02+00:00",
+      "fetched_at": "2026-11-26T09:16:53.751191+00:00",
+      "published_at": "2026-11-24T21:33:44+00:00",
       "period": null,
-      "product_url": "https://carry.md/",
+      "product_url": "https://github.com/cerulion-inc/cerulion#harness-results",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 26,
-      "comments_count": 17,
-      "evidence": {
-        "id": 50637995,
-        "title": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",
-        "time": 1795576742,
-        "url": "https://carry.md/",
-        "score": 26,
-        "descendants": 17
-      },
-      "response_sha256": "4205d0d9edab51a5c2491cc3a4b2bd84f3f115e4ba14d248dd5e23c3c9d05f3c",
-      "source_id": "50637995"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: Bowerbird, a private image organizer for Windows, Mac and Linux",
-      "source_url": "https://news.ycombinator.com/item?id=50641798",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:18.860922+00:00",
-      "published_at": "2026-11-25T13:04:26+00:00",
-      "period": null,
-      "product_url": "https://bowerbird.gallery/",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 4,
-      "comments_count": 0,
-      "evidence": {
-        "id": 50641798,
-        "title": "Show HN: Bowerbird, a private image organizer for Windows, Mac and Linux",
-        "time": 1795611866,
-        "url": "https://bowerbird.gallery/",
-        "score": 4,
-        "descendants": 0
-      },
-      "response_sha256": "427dd4515e88926a7930838a5f8169cad42067aeff308b9f04e2e3683364fb4c",
-      "source_id": "50641798"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
-      "source_url": "https://news.ycombinator.com/item?id=50641746",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-25T17:07:19.076329+00:00",
-      "published_at": "2026-11-25T12:57:40+00:00",
-      "period": null,
-      "product_url": "https://spendgap.ai/",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 6,
+      "metric_value": 9,
       "comments_count": 2,
       "evidence": {
-        "id": 50641746,
-        "title": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
-        "time": 1795611460,
-        "url": "https://spendgap.ai/",
-        "score": 6,
+        "id": 50635055,
+        "title": "Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",
+        "time": 1795556024,
+        "url": "https://github.com/cerulion-inc/cerulion#harness-results",
+        "score": 9,
         "descendants": 2
       },
-      "response_sha256": "510f45248c80465a07c8a555f1cedf0de33ab129c65ae1b7964131f9f24e18d4",
-      "source_id": "50641746"
+      "response_sha256": "0f741aeb62e5be363ff9eea53df56d485d6cb3f6fbee1e20a8bb10b341dad4c7",
+      "source_id": "50635055"
     }
   ],
   "limitations": [
