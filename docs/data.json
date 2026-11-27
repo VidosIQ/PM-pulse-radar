@@ -1,6 +1,6 @@
 {
-  "run_id": "20261126T164831Z",
-  "completed_at": "2026-11-26T16:48:31.014868+00:00",
+  "run_id": "20261127T061546Z",
+  "completed_at": "2026-11-27T06:15:46.662980+00:00",
   "is_trial": false,
   "parser_version": "github-1.0",
   "sources": [
@@ -13,11 +13,11 @@
         "url": "https://productradar.ru/",
         "final_url": "https://productradar.ru/",
         "status": 200,
-        "fetched_at": "2026-11-26T16:48:25.217026+00:00",
-        "sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e"
+        "fetched_at": "2026-11-27T06:15:40.255627+00:00",
+        "sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e"
       },
-      "data_fetched_at": "2026-11-26T16:48:25.217026+00:00",
-      "attempted_at": "2026-11-26T16:48:25.232641+00:00"
+      "data_fetched_at": "2026-11-27T06:15:40.255627+00:00",
+      "attempted_at": "2026-11-27T06:15:40.268116+00:00"
     },
     {
       "source": "Habr / Product Radar",
@@ -28,18 +28,18 @@
         "url": "https://habr.com/ru/companies/productradar/articles/",
         "final_url": "https://habr.com/ru/companies/productradar/articles/",
         "status": 200,
-        "fetched_at": "2026-11-26T16:48:26.501837+00:00",
-        "sha256": "5174b71e28c6eea1141989f394d436706ace6838d4ee12bfead0c2610229485c"
+        "fetched_at": "2026-11-27T06:15:42.046617+00:00",
+        "sha256": "ffbfb621b9716adbfa16ae6295329feec88673168b30cd1c5427ebc1a6d1ac1f"
       },
       "metadata": {
         "url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "final_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
         "status": 200,
-        "fetched_at": "2026-11-26T16:48:27.603233+00:00",
-        "sha256": "c0ec62bb154a6e4eabcdd91c009c50f5dacb2ba2989820937ed95ca0510e67b0"
+        "fetched_at": "2026-11-27T06:15:43.297094+00:00",
+        "sha256": "78740abfffad17c1e17cd9c54045480b06126858b4c37c0e0c2e68e5a4fdeaee"
       },
-      "data_fetched_at": "2026-11-26T16:48:27.603233+00:00",
-      "attempted_at": "2026-11-26T16:48:27.605798+00:00"
+      "data_fetched_at": "2026-11-27T06:15:43.297094+00:00",
+      "attempted_at": "2026-11-27T06:15:43.299254+00:00"
     },
     {
       "source": "Show HN",
@@ -50,11 +50,11 @@
         "url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "final_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
         "status": 200,
-        "fetched_at": "2026-11-26T16:48:27.720009+00:00",
-        "sha256": "19ece64508790ea411bf82814e3db35c5ac1c776af27bc861892e573cb80f847"
+        "fetched_at": "2026-11-27T06:15:43.923887+00:00",
+        "sha256": "9d04ec2844934055ad06a7c5cb5c18daea69d42f2734bdd41bf8ec7640c1590d"
       },
-      "data_fetched_at": "2026-11-26T16:48:31.014560+00:00",
-      "attempted_at": "2026-11-26T16:48:31.014836+00:00"
+      "data_fetched_at": "2026-11-27T06:15:46.662705+00:00",
+      "attempted_at": "2026-11-27T06:15:46.662952+00:00"
     }
   ],
   "records": [
@@ -64,7 +64,7 @@
       "title": "Клайп",
       "source_url": "https://productradar.ru/product/klajp/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -85,7 +85,7 @@
         "comments_text": "13",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "18968"
     },
     {
@@ -94,7 +94,7 @@
       "title": "Мы все – родня!",
       "source_url": "https://productradar.ru/product/my-vse-rodnya/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -106,16 +106,45 @@
         "Социальные проекты"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 113,
+      "metric_value": 119,
       "comments_count": 13,
       "evidence": {
         "title": "Мы все – родня!",
-        "data_votes": "113",
+        "data_votes": "119",
         "comments_text": "13",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "19634"
+    },
+    {
+      "source": "Product Radar",
+      "record_type": "product_listing",
+      "title": "Yaspot",
+      "source_url": "https://productradar.ru/product/yaspot/",
+      "collection_url": "https://productradar.ru/",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
+      "published_at": null,
+      "period": "2026-11-23/2026-11-29",
+      "product_url": null,
+      "description": "Первый и единственный сервис по переносу музыки из Яндекса и ВК в Spotify по одной ссылке",
+      "categories": [
+        "Музыка и аудио",
+        "Услуги",
+        "Чат-боты в Телеграм",
+        "🤝Ищу партнерства и коллабы"
+      ],
+      "metric_name": "Product Radar votes (data-votes)",
+      "metric_value": 49,
+      "comments_count": 3,
+      "evidence": {
+        "title": "Yaspot",
+        "data_votes": "49",
+        "comments_text": "3",
+        "period_datetime": "2026-11-23/2026-11-29"
+      },
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
+      "source_id": "19716"
     },
     {
       "source": "Product Radar",
@@ -123,7 +152,7 @@
       "title": "СООТВЕТСТВИЕ.РУС",
       "source_url": "https://productradar.ru/product/sootvetstvie-rus/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -144,37 +173,8 @@
         "comments_text": "5",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "19689"
-    },
-    {
-      "source": "Product Radar",
-      "record_type": "product_listing",
-      "title": "Yaspot",
-      "source_url": "https://productradar.ru/product/yaspot/",
-      "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
-      "published_at": null,
-      "period": "2026-11-23/2026-11-29",
-      "product_url": null,
-      "description": "Первый и единственный сервис по переносу музыки из Яндекса и ВК в Spotify по одной ссылке",
-      "categories": [
-        "Музыка и аудио",
-        "Услуги",
-        "Чат-боты в Телеграм",
-        "🤝Ищу партнерства и коллабы"
-      ],
-      "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 47,
-      "comments_count": 3,
-      "evidence": {
-        "title": "Yaspot",
-        "data_votes": "47",
-        "comments_text": "3",
-        "period_datetime": "2026-11-23/2026-11-29"
-      },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
-      "source_id": "19716"
     },
     {
       "source": "Product Radar",
@@ -182,7 +182,7 @@
       "title": "Юный Кодер от Айти Знайка",
       "source_url": "https://productradar.ru/product/yunyj-koder-ot-ajti-znajka/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -201,7 +201,7 @@
         "comments_text": "4",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "19026"
     },
     {
@@ -210,7 +210,7 @@
       "title": "Motty",
       "source_url": "https://productradar.ru/product/motty-schyotchik-kalorij-ai/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -231,7 +231,7 @@
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "17944"
     },
     {
@@ -240,7 +240,7 @@
       "title": "GymDesk",
       "source_url": "https://productradar.ru/product/gymdesk/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -259,7 +259,7 @@
         "comments_text": "4",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "14497"
     },
     {
@@ -268,7 +268,7 @@
       "title": "Комната ИИ",
       "source_url": "https://productradar.ru/product/komnata-ii/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -286,7 +286,7 @@
         "comments_text": "1",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "19054"
     },
     {
@@ -295,7 +295,7 @@
       "title": "Пульт Станции",
       "source_url": "https://productradar.ru/product/pult-stanczii/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -305,15 +305,15 @@
         "Развлечения"
       ],
       "metric_name": "Product Radar votes (data-votes)",
-      "metric_value": 20,
+      "metric_value": 21,
       "comments_count": 0,
       "evidence": {
         "title": "Пульт Станции",
-        "data_votes": "20",
+        "data_votes": "21",
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "19730"
     },
     {
@@ -322,7 +322,7 @@
       "title": "Подбор",
       "source_url": "https://productradar.ru/product/podbor/",
       "collection_url": "https://productradar.ru/",
-      "fetched_at": "2026-11-26T16:48:25.217026+00:00",
+      "fetched_at": "2026-11-27T06:15:40.255627+00:00",
       "published_at": null,
       "period": "2026-11-23/2026-11-29",
       "product_url": null,
@@ -342,7 +342,7 @@
         "comments_text": "0",
         "period_datetime": "2026-11-23/2026-11-29"
       },
-      "response_sha256": "bbf0b6638e27f4ec81ca86f0ca5f4e1b03970e0595ee57905cb03ebec3fcf61e",
+      "response_sha256": "74d9362807fd47b1622123d7d50a89d0b97d18102c3bab2eac5499c04788cf2e",
       "source_id": "18536"
     },
     {
@@ -351,7 +351,7 @@
       "title": "Считаем калории вместе с друзьями, создаем рилсы и видеотуры из ссылки на Циан или Авито и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1111462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-26T16:48:27.603233+00:00",
+      "fetched_at": "2026-11-27T06:15:43.297094+00:00",
       "published_at": "2026-11-24T05:45:41+00:00",
       "period": null,
       "product_url": null,
@@ -375,7 +375,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1111462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 24 Nov 2026 05:45:41 GMT"
       },
-      "response_sha256": "c0ec62bb154a6e4eabcdd91c009c50f5dacb2ba2989820937ed95ca0510e67b0",
+      "response_sha256": "78740abfffad17c1e17cd9c54045480b06126858b4c37c0e0c2e68e5a4fdeaee",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1111462/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -385,7 +385,7 @@
       "title": "Снова на Радаре: 16 подросших стартапов к трёхлетию площадки",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1108510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-26T16:48:27.603233+00:00",
+      "fetched_at": "2026-11-27T06:15:43.297094+00:00",
       "published_at": "2026-11-17T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -409,7 +409,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1108510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 17 Nov 2026 05:46:17 GMT"
       },
-      "response_sha256": "c0ec62bb154a6e4eabcdd91c009c50f5dacb2ba2989820937ed95ca0510e67b0",
+      "response_sha256": "78740abfffad17c1e17cd9c54045480b06126858b4c37c0e0c2e68e5a4fdeaee",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1108510/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -419,7 +419,7 @@
       "title": "ИИ-подсказки для переписки, российская ОС для виртуальных серверов и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1105648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-26T16:48:27.603233+00:00",
+      "fetched_at": "2026-11-27T06:15:43.297094+00:00",
       "published_at": "2026-11-10T05:46:17+00:00",
       "period": null,
       "product_url": null,
@@ -443,7 +443,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1105648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Tue, 10 Nov 2026 05:46:17 GMT"
       },
-      "response_sha256": "c0ec62bb154a6e4eabcdd91c009c50f5dacb2ba2989820937ed95ca0510e67b0",
+      "response_sha256": "78740abfffad17c1e17cd9c54045480b06126858b4c37c0e0c2e68e5a4fdeaee",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1105648/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -453,7 +453,7 @@
       "title": "Кофейный паспорт, планирование загородного участка в 3D и ещё 8 российских стартапов",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1103294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-26T16:48:27.603233+00:00",
+      "fetched_at": "2026-11-27T06:15:43.297094+00:00",
       "published_at": "2026-11-04T05:45:38+00:00",
       "period": null,
       "product_url": null,
@@ -477,7 +477,7 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1103294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Wed, 04 Nov 2026 05:45:38 GMT"
       },
-      "response_sha256": "c0ec62bb154a6e4eabcdd91c009c50f5dacb2ba2989820937ed95ca0510e67b0",
+      "response_sha256": "78740abfffad17c1e17cd9c54045480b06126858b4c37c0e0c2e68e5a4fdeaee",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1103294/",
       "author": "Artur_pro_333 (Product Radar)"
     },
@@ -487,7 +487,7 @@
       "title": "Книга мертвых стартапов. Выпуск 2026: До последнего клиента",
       "source_url": "https://habr.com/ru/companies/productradar/articles/1102068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
       "collection_url": "https://habr.com/ru/rss/companies/productradar/articles/?fl=ru",
-      "fetched_at": "2026-11-26T16:48:27.603233+00:00",
+      "fetched_at": "2026-11-27T06:15:43.297094+00:00",
       "published_at": "2026-10-31T12:36:34+00:00",
       "period": null,
       "product_url": null,
@@ -509,217 +509,9 @@
         "rss_link": "https://habr.com/ru/companies/productradar/articles/1102068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=corporate_blog",
         "pubDate": "Sat, 31 Oct 2026 12:36:34 GMT"
       },
-      "response_sha256": "c0ec62bb154a6e4eabcdd91c009c50f5dacb2ba2989820937ed95ca0510e67b0",
+      "response_sha256": "78740abfffad17c1e17cd9c54045480b06126858b4c37c0e0c2e68e5a4fdeaee",
       "source_id": "https://habr.com/ru/companies/productradar/articles/1102068/",
       "author": "tw0face (Product Radar)"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "source_url": "https://news.ycombinator.com/item?id=50656036",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:27.949585+00:00",
-      "published_at": "2026-11-26T15:00:06+00:00",
-      "period": null,
-      "product_url": "https://michidk.github.io/sidebyside/",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 21,
-      "comments_count": 6,
-      "evidence": {
-        "id": 50656036,
-        "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-        "time": 1795705206,
-        "url": "https://michidk.github.io/sidebyside/",
-        "score": 21,
-        "descendants": 6
-      },
-      "response_sha256": "00caf9016f146d0e68866bb6a566222ba9e3ac84a04708207a05c8f093a83bf2",
-      "source_id": "50656036"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: Synth Patch Hero",
-      "source_url": "https://news.ycombinator.com/item?id=50623232",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:29.033493+00:00",
-      "published_at": "2026-11-24T03:24:22+00:00",
-      "period": null,
-      "product_url": "https://swarkentin.github.io/synth-patch-hero/",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 111,
-      "comments_count": 23,
-      "evidence": {
-        "id": 50623232,
-        "title": "Show HN: Synth Patch Hero",
-        "time": 1795490662,
-        "url": "https://swarkentin.github.io/synth-patch-hero/",
-        "score": 111,
-        "descendants": 23
-      },
-      "response_sha256": "64deba53a48bc09e8d3af0b9a6eec30c3104ef14662117ac954930d34bb3ebe8",
-      "source_id": "50623232"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: Lazyfwd, a TUI for managing SSH port forwards",
-      "source_url": "https://news.ycombinator.com/item?id=50656067",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:29.360014+00:00",
-      "published_at": "2026-11-26T15:03:08+00:00",
-      "period": null,
-      "product_url": "https://github.com/glattziehen/lazyfwd",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 3,
-      "comments_count": 0,
-      "evidence": {
-        "id": 50656067,
-        "title": "Show HN: Lazyfwd, a TUI for managing SSH port forwards",
-        "time": 1795705388,
-        "url": "https://github.com/glattziehen/lazyfwd",
-        "score": 3,
-        "descendants": 0
-      },
-      "response_sha256": "5bc6bd699196ec3630c15db87e6c422a8029aea1ea832b61a84b9e251d72ef9f",
-      "source_id": "50656067"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: RebillKit – BYOK failed-payment recovery for Stripe (0% rev share)",
-      "source_url": "https://news.ycombinator.com/item?id=50655748",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:29.594412+00:00",
-      "published_at": "2026-11-26T14:34:43+00:00",
-      "period": null,
-      "product_url": "https://rebillkit.com/en",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 2,
-      "comments_count": 0,
-      "evidence": {
-        "id": 50655748,
-        "title": "Show HN: RebillKit – BYOK failed-payment recovery for Stripe (0% rev share)",
-        "time": 1795703683,
-        "url": "https://rebillkit.com/en",
-        "score": 2,
-        "descendants": 0
-      },
-      "response_sha256": "db48347fc7612edde1e06678d0daa3ec3d77a1e53b6f097a0ed08aced8b063c4",
-      "source_id": "50655748"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
-      "source_url": "https://news.ycombinator.com/item?id=50655639",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:29.833794+00:00",
-      "published_at": "2026-11-26T14:25:08+00:00",
-      "period": null,
-      "product_url": "https://github.com/batanus/lip-dictation",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 5,
-      "comments_count": 1,
-      "evidence": {
-        "id": 50655639,
-        "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
-        "time": 1795703108,
-        "url": "https://github.com/batanus/lip-dictation",
-        "score": 5,
-        "descendants": 1
-      },
-      "response_sha256": "2047e121444bc7d6973f7455fa793b1d43f3c9829677fc0eb908e3b9e639029b",
-      "source_id": "50655639"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-      "source_url": "https://news.ycombinator.com/item?id=50611593",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:30.078202+00:00",
-      "published_at": "2026-11-23T14:02:15+00:00",
-      "period": null,
-      "product_url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 124,
-      "comments_count": 11,
-      "evidence": {
-        "id": 50611593,
-        "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-        "time": 1795442535,
-        "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-        "score": 124,
-        "descendants": 11
-      },
-      "response_sha256": "d3063cb22540025fcd257ed276056ab6dec4772f56e278eb6b1aee6bf9b31718",
-      "source_id": "50611593"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-      "source_url": "https://news.ycombinator.com/item?id=50624684",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:30.327582+00:00",
-      "published_at": "2026-11-24T07:03:33+00:00",
-      "period": null,
-      "product_url": "https://www.rchive.computer/",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 51,
-      "comments_count": 26,
-      "evidence": {
-        "id": 50624684,
-        "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-        "time": 1795503813,
-        "url": "https://www.rchive.computer/",
-        "score": 51,
-        "descendants": 26
-      },
-      "response_sha256": "69eab17c9b054c3d40cdabae8384f3851c37492a910d9727cd5e039ddeb992c6",
-      "source_id": "50624684"
-    },
-    {
-      "source": "Show HN",
-      "record_type": "project_post",
-      "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
-      "source_url": "https://news.ycombinator.com/item?id=50642300",
-      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:30.556613+00:00",
-      "published_at": "2026-11-25T13:51:44+00:00",
-      "period": null,
-      "product_url": "https://github.com/click6067-ship-it/token-tv",
-      "description": null,
-      "categories": [],
-      "metric_name": "Hacker News score",
-      "metric_value": 54,
-      "comments_count": 6,
-      "evidence": {
-        "id": 50642300,
-        "title": "Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)",
-        "time": 1795614704,
-        "url": "https://github.com/click6067-ship-it/token-tv",
-        "score": 54,
-        "descendants": 6
-      },
-      "response_sha256": "a65293ae2973ab5a83a58a227fdc141c30720da4e581a43ff2251cb83160d40a",
-      "source_id": "50642300"
     },
     {
       "source": "Show HN",
@@ -727,51 +519,259 @@
       "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
       "source_url": "https://news.ycombinator.com/item?id=50651099",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:30.785506+00:00",
+      "fetched_at": "2026-11-27T06:15:44.255329+00:00",
       "published_at": "2026-11-26T03:33:06+00:00",
       "period": null,
       "product_url": "https://olumino.app",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 12,
-      "comments_count": 6,
+      "metric_value": 96,
+      "comments_count": 43,
       "evidence": {
         "id": 50651099,
         "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
         "time": 1795663986,
         "url": "https://olumino.app",
-        "score": 12,
-        "descendants": 6
+        "score": 96,
+        "descendants": 43
       },
-      "response_sha256": "280ab5e795410107df2e044a2eb6e9fa45f6b94a9a3846a7eb0ac2dbab713ecf",
+      "response_sha256": "e7e7af899947c99f92ede5b2701542a5b4bffdb08153dddad19a48f5b9f5819d",
       "source_id": "50651099"
     },
     {
       "source": "Show HN",
       "record_type": "project_post",
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "source_url": "https://news.ycombinator.com/item?id=50638503",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "source_url": "https://news.ycombinator.com/item?id=50655868",
       "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
-      "fetched_at": "2026-11-26T16:48:31.014560+00:00",
-      "published_at": "2026-11-25T04:31:48+00:00",
+      "fetched_at": "2026-11-27T06:15:44.517526+00:00",
+      "published_at": "2026-11-26T14:44:22+00:00",
       "period": null,
-      "product_url": "https://gpu-demo-gallery.pages.dev/",
+      "product_url": "http://themouseless.dev/vim/",
       "description": null,
       "categories": [],
       "metric_name": "Hacker News score",
-      "metric_value": 352,
-      "comments_count": 80,
+      "metric_value": 116,
+      "comments_count": 36,
       "evidence": {
-        "id": 50638503,
-        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "time": 1795581108,
-        "url": "https://gpu-demo-gallery.pages.dev/",
-        "score": 352,
-        "descendants": 80
+        "id": 50655868,
+        "title": "Show HN: I wrote an entire Vim manual over 4 years",
+        "time": 1795704262,
+        "url": "http://themouseless.dev/vim/",
+        "score": 116,
+        "descendants": 36
       },
-      "response_sha256": "c205d3a5298afa25f4cdabb744efe2af0588c4cec77f24ff76daf597032e6247",
-      "source_id": "50638503"
+      "response_sha256": "5f40930428450000a7a06dc035df0cd5b02ad3dd03e6ac5e4328442d52434495",
+      "source_id": "50655868"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "source_url": "https://news.ycombinator.com/item?id=50656036",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-27T06:15:44.776474+00:00",
+      "published_at": "2026-11-26T15:00:06+00:00",
+      "period": null,
+      "product_url": "https://michidk.github.io/sidebyside/",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 130,
+      "comments_count": 29,
+      "evidence": {
+        "id": 50656036,
+        "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "time": 1795705206,
+        "url": "https://michidk.github.io/sidebyside/",
+        "score": 130,
+        "descendants": 29
+      },
+      "response_sha256": "f0d2f5f1e89a7e6e3c38d88623c215255e0b329e8532ac8ca425d41cf2adffbb",
+      "source_id": "50656036"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "source_url": "https://news.ycombinator.com/item?id=50657070",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-27T06:15:45.039737+00:00",
+      "published_at": "2026-11-26T16:51:38+00:00",
+      "period": null,
+      "product_url": "https://github.com/rxliuli/sim-drop",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 43,
+      "comments_count": 10,
+      "evidence": {
+        "id": 50657070,
+        "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+        "time": 1795711898,
+        "url": "https://github.com/rxliuli/sim-drop",
+        "score": 43,
+        "descendants": 10
+      },
+      "response_sha256": "bbb56d6d56200d5e79a2b35210acc5db5fd82de00a16f4e8287f0a344df744a1",
+      "source_id": "50657070"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: Synth Patch Hero",
+      "source_url": "https://news.ycombinator.com/item?id=50623232",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-27T06:15:45.300455+00:00",
+      "published_at": "2026-11-24T03:24:22+00:00",
+      "period": null,
+      "product_url": "https://swarkentin.github.io/synth-patch-hero/",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 137,
+      "comments_count": 28,
+      "evidence": {
+        "id": 50623232,
+        "title": "Show HN: Synth Patch Hero",
+        "time": 1795490662,
+        "url": "https://swarkentin.github.io/synth-patch-hero/",
+        "score": 137,
+        "descendants": 28
+      },
+      "response_sha256": "5dd582b749a300f8a1119ed6ea950cfd34eff8d30dd3a096c1050cf58bb62dd5",
+      "source_id": "50623232"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: GravityFinder – Explore Exoplanets and More",
+      "source_url": "https://news.ycombinator.com/item?id=50661906",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-27T06:15:45.566369+00:00",
+      "published_at": "2026-11-27T01:57:34+00:00",
+      "period": null,
+      "product_url": "https://gravityfinder.com",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 4,
+      "comments_count": 0,
+      "evidence": {
+        "id": 50661906,
+        "title": "Show HN: GravityFinder – Explore Exoplanets and More",
+        "time": 1795744654,
+        "url": "https://gravityfinder.com",
+        "score": 4,
+        "descendants": 0
+      },
+      "response_sha256": "8891c91a298ff58711563881cb5345b5634854caa8df55f01ebc593cdbd4e0f5",
+      "source_id": "50661906"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: Faster Mac Use – Background Chrome/macOS MCP and 5-lane routing skill",
+      "source_url": "https://news.ycombinator.com/item?id=50661603",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-27T06:15:45.832097+00:00",
+      "published_at": "2026-11-27T01:07:18+00:00",
+      "period": null,
+      "product_url": "https://github.com/lifan-builds/faster-mac-use",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 2,
+      "comments_count": 0,
+      "evidence": {
+        "id": 50661603,
+        "title": "Show HN: Faster Mac Use – Background Chrome/macOS MCP and 5-lane routing skill",
+        "time": 1795741638,
+        "url": "https://github.com/lifan-builds/faster-mac-use",
+        "score": 2,
+        "descendants": 0
+      },
+      "response_sha256": "574838881137b80284a9c9a31dfc585eaf06c86c983635c004eb32fc385dc5f7",
+      "source_id": "50661603"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+      "source_url": "https://news.ycombinator.com/item?id=50611593",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-27T06:15:46.091823+00:00",
+      "published_at": "2026-11-23T14:02:15+00:00",
+      "period": null,
+      "product_url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 131,
+      "comments_count": 13,
+      "evidence": {
+        "id": 50611593,
+        "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+        "time": 1795442535,
+        "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+        "score": 131,
+        "descendants": 13
+      },
+      "response_sha256": "72fec51ec0f4e221e8785def0bed1dfd4c5745d56a559a200b776d4353b09881",
+      "source_id": "50611593"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+      "source_url": "https://news.ycombinator.com/item?id=50655639",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-27T06:15:46.345020+00:00",
+      "published_at": "2026-11-26T14:25:08+00:00",
+      "period": null,
+      "product_url": "https://github.com/batanus/lip-dictation",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 16,
+      "comments_count": 2,
+      "evidence": {
+        "id": 50655639,
+        "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+        "time": 1795703108,
+        "url": "https://github.com/batanus/lip-dictation",
+        "score": 16,
+        "descendants": 2
+      },
+      "response_sha256": "8496c0d0f01cb050841717338d86ef2d422f998187f28f7c32220c80ef16420c",
+      "source_id": "50655639"
+    },
+    {
+      "source": "Show HN",
+      "record_type": "project_post",
+      "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+      "source_url": "https://news.ycombinator.com/item?id=50624684",
+      "collection_url": "https://hacker-news.firebaseio.com/v0/showstories.json",
+      "fetched_at": "2026-11-27T06:15:46.662705+00:00",
+      "published_at": "2026-11-24T07:03:33+00:00",
+      "period": null,
+      "product_url": "https://www.rchive.computer/",
+      "description": null,
+      "categories": [],
+      "metric_name": "Hacker News score",
+      "metric_value": 53,
+      "comments_count": 26,
+      "evidence": {
+        "id": 50624684,
+        "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+        "time": 1795503813,
+        "url": "https://www.rchive.computer/",
+        "score": 53,
+        "descendants": 26
+      },
+      "response_sha256": "a412e61f3035f37e8f9417c326377ee063b059a4e1f3f27895a69e17bf2644be",
+      "source_id": "50624684"
     }
   ],
   "limitations": [
